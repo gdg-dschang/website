@@ -2,7 +2,7 @@
   "pages": {
     "home": {
       "headerSettings": {
-        "backgroundColor": "#FF9800",
+        "backgroundColor": "#4CAF50",
         "backgroundImage": "/images/backgrounds/home.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
@@ -11,13 +11,14 @@
           "youtubeId": "DfMnJAzOFng",
           "text": "See how it was in 2015"
         },
-        "hideLogo": true,
+        "hideLogo": false,
         "minHeight": "360px"
       }
     },
     "blog": {
       "headerSettings": {
-        "backgroundColor": "#03a9f4",
+        "backgroundColor": "#212121",
+        "backgroundImage": "/images/backgrounds/blog.jpg",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
@@ -25,6 +26,7 @@
     "speakers": {
       "headerSettings": {
         "backgroundColor": "#3f51b5",
+        "backgroundImage": "/images/backgrounds/speaker.jpg",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
@@ -32,13 +34,14 @@
     "schedule": {
       "headerSettings": {
         "backgroundColor": "#673ab7",
+        "backgroundImage": "/images/backgrounds/schedule.jpg",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
     },
     "team": {
       "headerSettings": {
-        "backgroundColor": "#009688",
+        "backgroundColor": "#5D4037",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
@@ -84,10 +87,6 @@
     {
       "name": "English",
       "key": "en"
-    },
-    {
-      "name": "Українська",
-      "key": "uk"
     }
   ],
   "footerBlocks": [
@@ -143,8 +142,8 @@
   "contactBlock": {
     "links": [
       {
-        "text": "devfest@google.com",
-        "url": "mailto:devfest@google.com"
+        "text": "gdgdschang@gmail.com",
+        "url": "mailto:gdgdschang@gmail.com"
       }
     ]
   },
@@ -153,8 +152,8 @@
     "elements": [
       {
         "name": "student-ticket",
-        "price": 500,
-        "currency": "₴",
+        "price": 0,
+        "currency": "FCFA",
         "starts": "student-ticket-starts",
         "ends": "student-ticket-ends",
         "info": "student-ticket-info",
@@ -162,17 +161,17 @@
       },
       {
         "name": "early-ticket",
-        "price": 750,
-        "currency": "₴",
+        "price": 500,
+        "currency": "FCFA",
         "starts": "early-ticket-starts",
         "ends": "early-ticket-ends",
         "info": "early-ticket-info",
-        "soldOut": true
+        "soldOut": false
       },
       {
         "name": "lazy-ticket",
         "price": 1000,
-        "currency": "₴",
+        "currency": "FCFA",
         "starts": "lazy-ticket-starts",
         "ends": "lazy-ticket-ends",
         "soldOut": false
@@ -183,15 +182,15 @@
   "teamPageText": "team-page-text",
   "statistics": [
     {
-      "counter": 600,
+      "counter": 300,
       "caption": "attendees"
     },
     {
-      "counter": 2,
+      "counter": 1,
       "caption": "days"
     },
     {
-      "counter": 30,
+      "counter": 15,
       "caption": "sessions"
     },
     {
@@ -200,26 +199,22 @@
     }
   ],
   "hashtag": "dfua",
+  "hashtag": "WestDevFest16",
   "social": [
     {
       "name": "twitter",
-      "nickname": "GDGLviv",
-      "url": "https://twitter.com/gdglviv"
+      "nickname": "GDGDschang",
+      "url": "https://twitter.com/GDGDschang"
     },
     {
       "name": "gplus",
-      "nickname": "102444623953913144164",
-      "url": "https://plus.google.com/102444623953913144164"
+      "nickname": "gdgdschang",
+      "url": "https://plus.google.com/101390700541925663340"
     },
     {
       "name": "facebook",
-      "nickname": "GDGLviv",
-      "url": "https://www.facebook.com/GDGLviv"
-    },
-    {
-      "name": "linkedin",
-      "nickname": "google-developers-group-lviv",
-      "url": "https://www.linkedin.com/company/google-developers-group-lviv"
+      "nickname": "GDGDschang",
+      "url": "https://www.facebook.com/GDGDschang"
     }
   ],
   "tweetsSource": "/data/tweets.json",

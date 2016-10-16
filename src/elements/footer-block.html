@@ -6,15 +6,12 @@
 
 <link rel="import" href="../../bower_components/paper-button/paper-button.html">
 <link rel="import" href="../../bower_components/paper-menu-button/paper-menu-button.html">
-<link rel="import" href="../../bower_components/paper-icon-button/paper-icon-button.html">
-<link rel="import" href="../../bower_components/paper-item/paper-icon-item.html">
 <link rel="import" href="../../bower_components/paper-menu/paper-menu.html">
 <link rel="import" href="../../bower_components/paper-item/paper-item.html">
 
 <link rel="import" href="../styles/shared-styles.html">
 <link rel="import" href="../js-wrappers/g-plusone.html">
 <link rel="import" href="../behaviors/localize-behavior.html">
-<link rel="import" href="../behaviors/share-behavior.html">
 <link rel="import" href="mailchimp-subscribe.html">
 
 
@@ -33,7 +30,6 @@
           padding: 0;
         };
         --paper-menu-background-color: #fff;
-        --paper-menu-button-dropdown-background: #fff;
       }
 
       .container {
@@ -120,8 +116,7 @@
         margin-right: 4px;
       }
 
-      paper-item,
-      paper-icon-item {
+      paper-item {
         cursor: pointer;
       }
 
@@ -223,7 +218,7 @@
         <!-- Please do NOT delete next block -->
         <div class="copyright">
           &copy; 2016 Based on <a href="https://github.com/gdg-x/hoverboard" target="_blank" rel="noopener noreferrer">Project
-          Hoverboard</a>. Designed and created by <a href="http://o.zasadnyy.com/" target="_blank" rel="noopener noreferrer">Oleh
+          Hoverboard</a>. Designed and created by <a href="http://github.com/tnga" target="_blank" rel="noopener noreferrer"><b>tnga</b></a>. Thank to awesome work of <a href="http://o.zasadnyy.com/" target="_blank" rel="noopener noreferrer">Oleh
           Zasadnyy</a> &middot;
           <a href="http://lviv.gdg.org.ua" target="_blank" rel="noopener noreferrer">GDG Lviv</a>
         </div>
@@ -235,28 +230,6 @@
             href$="{{app.data.url}}"
           ></g:plusone>
         </div>
-
-        <paper-menu-button vertical-align="bottom" horizontal-align="left" share-menu>
-          <paper-icon-button icon="share" class="dropdown-trigger"></paper-icon-button>
-          <div class="dropdown-content">
-            <paper-icon-item on-tap="share" share="gplus">
-              <iron-icon icon="gplus" item-icon></iron-icon>
-              Google+
-            </paper-icon-item>
-            <paper-icon-item on-tap="share" share="facebook">
-              <iron-icon icon="facebook" item-icon></iron-icon>
-              Facebook
-            </paper-icon-item>
-            <paper-icon-item on-tap="share" share="twitter">
-              <iron-icon icon="twitter" item-icon></iron-icon>
-              Twitter
-            </paper-icon-item>
-            <paper-icon-item on-tap="share" share="copy">
-              <iron-icon icon="link" item-icon></iron-icon>
-              [[localize('copy-link')]]
-            </paper-icon-item>
-          </div>
-        </paper-menu-button>
 
         <template is="dom-if" if="[[_showLanguageToggle(app.data.languages)]]">
           <paper-menu-button vertical-align="bottom" horizontal-align="left">
@@ -275,7 +248,6 @@
                 <paper-item
                   value="[[lang.key]]"
                   label="[[lang.name]]"
-                  on-tap="_changeLanguage"
                 >[[lang.name]]
                 </paper-item>
               </template>
@@ -296,16 +268,19 @@
         is: 'footer-block',
 
         behaviors: [
-          HOVERBOARD.LocalizeBehavior,
-          HOVERBOARD.ShareBehavior
+          HOVERBOARD.LocalizeBehavior
+        ],
+
+        observers: [
+          'languageChanged(app.lang)'
         ],
 
         scrollToTop: function (e) {
           HOVERBOARD.Elements.Template.backToTop(e);
         },
 
-        _changeLanguage: function (e) {
-          HOVERBOARD.Analytics.trackEvent('language', 'select', e.target.label);
+        languageChanged: function (lang) {
+          HOVERBOARD.Analytics.trackEvent('language', 'select', lang);
         },
 
         _getLinkTarget: function (newTab) {
