@@ -1,0 +1,35 @@
+{
+  "name": "gdg-dschang-website",
+  "version": "1.0.0",
+  "description": "The GDG Dschang official website",
+  "main": "service-worker.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "npm serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tnga/devfest-website.git"
+  },
+  "keywords": [
+    "gdg",
+    "google",
+    "website",
+    "dschang",
+    "io",
+    "devfest",
+    "polymer",
+    "template"
+  ],
+  "author": "tnga <devtnga@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tnga/devfest-website/issues"
+  },
+  "homepage": "https://github.com/tnga/devfest-website#readme",
+  "dependencies": {
+    "twit": "^2.2.5"
+  }
+}
