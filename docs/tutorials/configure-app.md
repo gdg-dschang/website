@@ -136,6 +136,16 @@ Download the latest version of Tweetledee; unzip and deploy on their server.
 **Note:** don't forget to enable CORS, changing `$TLD_JS = 0;` to `$TLD_JS = 1;`.  
 Read [full documentation](http://chrissimpkins.github.io/tweetledee/) on the official website.
 
+You can also use `tweet-getter` script to perform that.
+make sure to have dependencies installed
+```
+npm install
+```
+and run the script
+```
+node tweet-getter.js
+```
+
 
 # Next steps
 

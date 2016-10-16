@@ -22,7 +22,7 @@ var tw = new Twit({
  *          -[string] until : end date 
  *          -* more on https://dev.twitter.com/rest/reference/get/search/tweets * 
  *
- * @TODO cron job way for automation
+ * @TODO cron job way for automation, adjust corresponding documentation
  */
 function fetchTweet (keyword, queryOpts) {
     if (!(queryOpts instanceof Object)) queryOpts = {};
