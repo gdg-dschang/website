@@ -7,11 +7,11 @@
     "doc": "docs"
   },
   "scripts": {
-    "test": "npm serve"
+    "test": "polymer serve"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tnga/devfest-website.git"
+    "url": "git+https://github.com/gdg-dschang/website.git"
   },
   "keywords": [
     "gdg",
@@ -26,9 +26,9 @@
   "author": "tnga <devtnga@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tnga/devfest-website/issues"
+    "url": "https://github.com/gdg-dschang/website/issues"
   },
-  "homepage": "https://github.com/tnga/devfest-website#readme",
+  "homepage": "https://github.com/gdg-dschang/website#readme",
   "dependencies": {
     "twit": "^2.2.5"
   }

@@ -28,22 +28,6 @@ from [GDG Lviv](http://lviv.gdg.org.ua/).
 :white_check_mark: Editable theme colors  
 :white_check_mark: Quick deploy  
 
-### *Hoverboard* - Roadmap :rocket:
-:x: Admin panel  
-:x: Firebase Integration   
-:x: My schedule  
-:x: Push notification  
-:x: ES2015  
-:x: Accessibility  
-:x: Unit/Integration Tests  
-:point_right: __Propose your feature with [creating an issue](https://github.com/gdg-x/hoverboard/issues/new)__
-
-### *Hoverboard* - Contributing
-
-Project Hoverboard is still under development, and it is open for contributions. 
-Feel free to send PR. If you have any questions, feel free to contact 
-[Oleh Zasadnyy](https://plus.google.com/+OlehZasadnyy).
-
 ### Setup
 :book: [Full documentation](/docs/).
 
@@ -61,8 +45,27 @@ and run:
 
 :book: Read more in [docker docs](/docs/tutorials/docker.md).
 
+### *Hoverboard* - Roadmap :rocket:
+:x: Admin panel  
+:x: Firebase Integration   
+:x: My schedule  
+:x: Push notification  
+:x: ES2015  
+:x: Accessibility  
+:x: Unit/Integration Tests  
+:point_right: __Propose your feature with [creating an issue](https://github.com/gdg-x/hoverboard/issues/new)__
+
+### *Hoverboard* - Contributing
+
+Project Hoverboard is still under development, and it is open for contributions. 
+Feel free to send PR. If you have any questions, feel free to contact 
+[Oleh Zasadnyy](https://plus.google.com/+OlehZasadnyy).
 
 ###### Prerequisites
+    
+:point_right: **[Fork](https://github.com/gdg-dschang/website/fork) this repository** and clone it locally.
+
+*(for global way to install dependencies, don't forget `sudo` behavior on some linux like distro)*
 
 Install [polymer-cli](https://github.com/Polymer/polymer-cli):
 
@@ -71,8 +74,6 @@ Install [polymer-cli](https://github.com/Polymer/polymer-cli):
 and [Bower](https://bower.io/):
     
     npm i -g bower
-    
-:point_right: **[Fork](https://github.com/gdg-x/hoverboard/fork) this repository** and clone it locally.
 
 ##### Install dependencies
 
