@@ -16,20 +16,20 @@ var tw = new Twit({
 /**
  * fetch tweets containing a given keyword and save result in a json file.
  * @param [string] keyword : a given word or sentence
- * @param [Object] opts : options for query behavior.
- *          -[boolean] isHashtag : precison for searching a hashtag or not
+ * @param [Object] queryOpts : options for query behavior.
  *          -[number] count : tweet limit to fetch 
  *          -[string] since : start date 
  *          -[string] until : end date 
+ *          -* more on https://dev.twitter.com/rest/reference/get/search/tweets * 
+ *
+ * @TODO cron job way for automation
  */
-function fetchTweet (keyword, opts) {
-    if (!(opts instanceof Object)) opts = {};
+function fetchTweet (keyword, queryOpts) {
+    if (!(queryOpts instanceof Object)) queryOpts = {};
     
-    var queryOpts = {};
-    opts.isHashtag ? queryOpts.q = '#'+ keyword : keyword;
-    opts.count ? queryOpts.count = opts.count :10;
-    opts.since ? queryOpts.since = opts.since : '2014-01-01';
-    if (opts.until) queryOpts.until = opts.until;
+    keyword ? queryOpts.q = keyword : '#GDGDschang';
+    if (!queryOpts.count) queryOpts.count = 10;
+    if (queryOpts.since) queryOpts.since = '2014-01-01';
    
     tw.get('search/tweets', queryOpts, function(err, data, response) {
         if (err) return console.log(err);
@@ -43,4 +43,4 @@ function fetchTweet (keyword, opts) {
     });
 }
 
-fetchTweet('DevFestWest16', {isHashtag:true, since:'2015-01-01'});
+fetchTweet('#DevFestWest16', {since:'2015-01-01'});
