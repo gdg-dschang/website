@@ -1,6 +1,6 @@
 /* This script is for automatically get tweet with some time interval, considering a given hashtag.
  * 
- * github: @tnga, @mpoehler
+ * --github: well done @tnga, @mpoehler
 */
 
 var Twit = require('twit');
@@ -13,13 +13,34 @@ var tw = new Twit({
     timeout_ms:           60*1000  // optional HTTP request timeout to apply to all requests.
 });
 
-
-tw.get('search/tweets', { q: '#ll237 since:2014-01-01', count: 10, /*lang: 'en'*/ }, function(err, data, response) {
-    var fs = require('fs');
-    fs.writeFile("data/tweets.json", JSON.stringify(data.statuses), function(err) {
-        if(err) {
-            return console.log(err);
-        }
-        console.log("The file was saved!");
+/**
+ * fetch tweets containing a given keyword and save result in a json file.
+ * @param [string] keyword : a given word or sentence
+ * @param [Object] opts : options for query behavior.
+ *          -[boolean] isHashtag : precison for searching a hashtag or not
+ *          -[number] count : tweet limit to fetch 
+ *          -[string] since : start date 
+ *          -[string] until : end date 
+ */
+function fetchTweet (keyword, opts) {
+    if (!(opts instanceof Object)) opts = {};
+    
+    var queryOpts = {};
+    opts.isHashtag ? queryOpts.q = '#'+ keyword : keyword;
+    opts.count ? queryOpts.count = opts.count :10;
+    opts.since ? queryOpts.since = opts.since : '2014-01-01';
+    if (opts.until) queryOpts.until = opts.until;
+   
+    tw.get('search/tweets', queryOpts, function(err, data, response) {
+        if (err) return console.log(err);
+        var fs = require('fs');
+        fs.writeFile("data/tweets.json", JSON.stringify(data.statuses), function(err) {
+            if(err) {
+                return console.log(err);
+            }
+            console.log("The file was saved!");
+        });
     });
-});
+}
+
+fetchTweet('DevFestWest16', {isHashtag:true, since:'2015-01-01'});
