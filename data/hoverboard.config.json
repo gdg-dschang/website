@@ -217,28 +217,28 @@
       "url": "https://www.facebook.com/GDGDschang"
     }
   ],
-  "tweetsSource": "/data/tweets.json",
+   "tweetsSource": "/data/tweets.json",
   "gallery": {
-    "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
+    "albumUrl": "https://plus.google.com/events/gallery/cjrqia627pcm5mqrs6smha5s950?pid=6306059263334398498&oid=110655210899115667585&sort=6",
     "photos": {
-      "big": "/images/backgrounds/2015_1.jpg",
+      "big": "/images/backgrounds/2016_1.JPG",
       "small": [
-        "/images/backgrounds/2015_2.jpg",
-        "/images/backgrounds/2015_3.jpg"
+        "/images/backgrounds/2016_2.JPG",
+        "/images/backgrounds/2016_3.jpg"
       ]
     }
   },
   "location": {
     "apiKey": "",
-    "link": "https://www.facebook.com/expopivdennij",
+    "link": "https://www.facebook.com/eventspace.by",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": 53.8904068,
+      "longitude": 27.5682085,
       "zoom": 15
     },
     "mapCenter": {
-      "latitude": 49.809841,
-      "longitude": 23.982805
+      "latitude": 5.452124,
+      "longitude": 10.06815
     },
     "images": [
       "/images/backgrounds/location_1.jpg",
@@ -246,9 +246,9 @@
       "/images/backgrounds/location_3.jpg"
     ]
   },
-  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
+  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLwMARoRtO2co6fOryZYl7C9DqrFRBaqjI",
   "callToAction": {
     "videoTitle": "action-title",
-    "videoId": "DfMnJAzOFng"
+    "videoId": "8R3qJ1wWjzY"
   }
 }
