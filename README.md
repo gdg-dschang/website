@@ -1,6 +1,7 @@
-![preview-web](https://cloud.githubusercontent.com/assets/2954281/17777476/5dbbbe1c-6569-11e6-9cc4-77185ae9bf92.png)
+# GDG Dschang official website
+> Be a Google Developers Group. Be a Hero!
 
-# Project Hoverboard 
+## Project Hoverboard  
 
 [![Join the chat at https://gitter.im/gdg-x/hoverboard](https://badges.gitter.im/gdg-x/hoverboard.svg)](https://gitter.im/gdg-x/hoverboard?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
