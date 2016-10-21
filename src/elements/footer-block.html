@@ -6,6 +6,7 @@
 
 <link rel="import" href="../../bower_components/paper-button/paper-button.html">
 <link rel="import" href="../../bower_components/paper-menu-button/paper-menu-button.html">
+<link rel="import" href="../../bower_components/paper-dropdown-menu/paper-dropdown-menu.html">
 <link rel="import" href="../../bower_components/paper-menu/paper-menu.html">
 <link rel="import" href="../../bower_components/paper-item/paper-item.html">
 
@@ -159,6 +160,7 @@
       }
     </style>
 
+
     <div class="container">
       <div class="footer-content">
         <iron-image
@@ -174,18 +176,33 @@
       </div>
       <div class="footer-content footer-links-container">
         <nav class="navigation">
-          <template is="dom-repeat" items="[[app.data.footerBlocks]]" as="block">
-            <div class="link-block-wrapper">
-              <div class="link-block-title">[[localize(block.title)]]</div>
-              <ul class="link-block">
-                <template is="dom-repeat" items="[[block.links]]" as="link">
-                  <li>
-                    <a href$="[[link.url]]" target="_getLinkTarget(link.newTab)">[[localize(link.text)]]</a>
-                  </li>
+          <div class="link-block-wrapper">
+            <div class="link-block-title">[[localize(app.data.visitorBlock.title)]]</div>
+            <ul class="link-block">
+              <template is="dom-repeat" items="[[app.data.visitorBlock.links]]" as="link">
+                <li>
+                  <a href$="[[link.url]]" target="_getLinkTarget(link.newTab)">[[localize(link.text)]]</a>
+                </li>
+              </template>
+             </ul>
+            <paper-dropdown-menu vertical-align="bottom" label="[[localize(app.data.archiveBlock.title)]]">
+              <paper-listbox class="dropdown-content">
+                <template is="dom-repeat" items="[[app.data.archiveBlock.links]]" as="link">
+                  <paper-item><a href$="[[link.url]]" target="_getLinkTarget(link.newTab)">[[localize(link.text)]]</a></paper-item>
                 </template>
-              </ul>
-            </div>
-          </template>
+              </paper-listbox>
+            </paper-dropdown-menu>
+          </div>
+          <div class="link-block-wrapper">
+            <div class="link-block-title">[[localize(app.data.partnerBlock.title)]]</div>
+            <ul class="link-block">
+              <template is="dom-repeat" items="[[app.data.partnerBlock.links]]" as="link">
+                <li>
+                  <a href$="[[link.url]]" target="_getLinkTarget(link.newTab)">[[localize(link.text)]]</a>
+                </li>
+              </template>
+             </ul>
+          </div>
           <div class="link-block-wrapper">
             <div class="link-block-title">[[localize('contact-us')]]</div>
             <ul class="link-block">

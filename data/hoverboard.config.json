@@ -89,56 +89,60 @@
       "key": "en"
     }
   ],
-  "footerBlocks": [
-    {
-      "title": "for-visitors",
-      "links": [
-        {
-          "text": "team",
-          "url": "/team/"
-        },
-        {
-          "text": "cod",
-          "url": "/cod/"
-        },
-        {
-          "text": "google-developers",
-          "url": "https://developers.google.com/",
-          "newTab": true
-        },
-        {
-          "text": "df-13",
-          "url": "http://gdg-devfest-ua.appspot.com/",
-          "newTab": true
-        },
-        {
-          "text": "df-14",
-          "url": "http://devfest.gdg.org.ua/2014/",
-          "newTab": true
-        },
-        {
-          "text": "df-15",
-          "url": "http://devfest.gdg.org.ua/2015/",
-          "newTab": true
-        }
-      ]
-    },
-    {
-      "title": "for-partners",
-      "links": [
-        {
-          "text": "partnership-proposition",
-          "url": "http://bit.ly/df16-sponsor",
-          "newTab": true
-        },
-        {
-          "text": "media-kit",
-          "url": "http://bit.ly/df16-media",
-          "newTab": true
-        }
-      ]
-    }
-  ],
+  "visitorBlock": {
+    "title": "for-visitors",
+    "links": [
+      {
+        "text": "team",
+        "url": "/team/"
+      },
+      {
+        "text": "cod",
+        "url": "/cod/"
+      },
+      {
+        "text": "google-developers",
+        "url": "https://developers.google.com/",
+        "newTab": true
+      }
+    ]
+  },
+  "archiveBlock": {
+    "title": "old-events",
+    "links": [
+      {
+        "text": "df-15",
+        "url": "http://devfest.gdg.org.ua/2015/",
+        "newTab": true
+      },
+      
+      {
+        "text": "df-14",
+        "url": "http://devfest.gdg.org.ua/2014/",
+        "newTab": true
+      },
+      {
+        "text": "df-13",
+        "url": "http://gdg-devfest-ua.appspot.com/",
+        "newTab": true
+      }
+    ]
+  },
+  "partnerBlock": {
+    "title": "for-partners",
+    "links": [
+      {
+        "text": "partnership-proposition",
+        "url": "http://bit.ly/df16-sponsor",
+        "newTab": true
+      },
+      {
+        "text": "media-kit",
+        "url": "http://bit.ly/df16-media",
+        "newTab": true
+      }
+    ]
+  },
   "contactBlock": {
     "links": [
       {
