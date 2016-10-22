@@ -166,7 +166,7 @@
     ]
   },
   "tickets": {
-    "url": "http://2event.com/events/630032",
+    "url": "https://plus.google.com/events/cjchmpkpooi2mico16mh5ora03k",
     "elements": [
       {
         "name": "student-ticket",
@@ -220,19 +220,24 @@
   "hashtag": "DevFestWest16",
   "social": [
     {
-      "name": "twitter",
-      "nickname": "GDGDschang",
-      "url": "https://twitter.com/GDGDschang"
-    },
-    {
       "name": "gplus",
       "nickname": "gdgdschang",
       "url": "https://plus.google.com/101390700541925663340"
     },
     {
+      "name": "twitter",
+      "nickname": "GDGDschang",
+      "url": "https://twitter.com/GDGDschang"
+    },
+    {
       "name": "facebook",
       "nickname": "GDGDschang",
       "url": "https://www.facebook.com/GDGDschang"
+    },
+    {
+      "name": "github",
+      "nickname": "gdg-dschang",
+      "url": "https://github.com/gdg-dschang"
     }
   ],
    "tweetsSource": "/data/tweets.json",
@@ -248,7 +253,7 @@
   },
   "location": {
     "apiKey": "",
-    "link": "https://www.facebook.com/eventspace.by",
+    "link": "https://www.facebook.com/lebspdedschang/info",
     "pointer": {
       "latitude": 53.8904068,
       "longitude": 27.5682085,
