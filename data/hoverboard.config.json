@@ -89,56 +89,74 @@
       "key": "en"
     }
   ],
-  "footerBlocks": [
-    {
-      "title": "for-visitors",
-      "links": [
-        {
-          "text": "team",
-          "url": "/team/"
-        },
-        {
-          "text": "cod",
-          "url": "/cod/"
-        },
-        {
-          "text": "google-developers",
-          "url": "https://developers.google.com/",
-          "newTab": true
-        },
-        {
-          "text": "df-13",
-          "url": "http://gdg-devfest-ua.appspot.com/",
-          "newTab": true
-        },
-        {
-          "text": "df-14",
-          "url": "http://devfest.gdg.org.ua/2014/",
-          "newTab": true
-        },
-        {
-          "text": "df-15",
-          "url": "http://devfest.gdg.org.ua/2015/",
-          "newTab": true
-        }
-      ]
-    },
-    {
-      "title": "for-partners",
-      "links": [
-        {
-          "text": "partnership-proposition",
-          "url": "http://bit.ly/df16-sponsor",
-          "newTab": true
-        },
-        {
-          "text": "media-kit",
-          "url": "http://bit.ly/df16-media",
-          "newTab": true
-        }
-      ]
-    }
-  ],
+  "visitorBlock": {
+    "title": "for-visitors",
+    "links": [
+      {
+        "text": "team",
+        "url": "/team/"
+      },
+      {
+        "text": "cod",
+        "url": "/cod/"
+      },
+      {
+        "text": "google-developers",
+        "url": "https://developers.google.com/",
+        "newTab": true
+      }
+    ]
+  },
+  "archiveBlock": {
+    "title": "old-events",
+    "links": [
+      {
+        "text": "io-16",
+        "url": "https://plus.google.com/photos/101390700541925663340/album/6300932825812521857?authkey=CNabw9Gpzq3zJg",
+        "newTab": true
+      }, 
+      {
+        "text": "df-15",
+        "url": "https://plus.google.com/photos/110655210899115667585/album/6224887054622295473?authkey=CPHh-uW1r52pngE",
+        "newTab": true
+      }, 
+      {
+        "text": "io-15",
+        "url": "https://plus.google.com/photos/101390700541925663340/album/6159024068111378625",
+        "newTab": true
+      },
+      {
+        "text": "df-14",
+        "url": "https://plus.google.com/s/%23GDGDschang%20%23DevFest14/top",
+        "newTab": true
+      },
+      {
+        "text": "io-14",
+        "url": "https://plus.google.com/s/%23gdgdschang%20%23gdayioi14/top",
+        "newTab": true
+      },
+      {
+        "text": "io-13",
+        "url": "https://plus.google.com/s/%23GDGDschang%20%23io13/top",
+        "newTab": true
+      }
+    ]
+  },
+  "partnerBlock": {
+    "title": "for-partners",
+    "links": [
+      {
+        "text": "partnership-proposition",
+        "url": "http://bit.ly/df16-sponsor",
+        "newTab": true
+      },
+      {
+        "text": "media-kit",
+        "url": "http://bit.ly/df16-media",
+        "newTab": true
+      }
+    ]
+  },
   "contactBlock": {
     "links": [
       {
@@ -148,7 +166,7 @@
     ]
   },
   "tickets": {
-    "url": "http://2event.com/events/630032",
+    "url": "https://plus.google.com/events/cjchmpkpooi2mico16mh5ora03k",
     "elements": [
       {
         "name": "student-ticket",
@@ -202,19 +220,24 @@
   "hashtag": "DevFestWest16",
   "social": [
     {
-      "name": "twitter",
-      "nickname": "GDGDschang",
-      "url": "https://twitter.com/GDGDschang"
-    },
-    {
       "name": "gplus",
       "nickname": "gdgdschang",
       "url": "https://plus.google.com/101390700541925663340"
     },
     {
+      "name": "twitter",
+      "nickname": "GDGDschang",
+      "url": "https://twitter.com/GDGDschang"
+    },
+    {
       "name": "facebook",
       "nickname": "GDGDschang",
       "url": "https://www.facebook.com/GDGDschang"
+    },
+    {
+      "name": "github",
+      "nickname": "gdg-dschang",
+      "url": "https://github.com/gdg-dschang"
     }
   ],
    "tweetsSource": "/data/tweets.json",
@@ -230,7 +253,7 @@
   },
   "location": {
     "apiKey": "",
-    "link": "https://www.facebook.com/eventspace.by",
+    "link": "https://www.facebook.com/lebspdedschang/info",
     "pointer": {
       "latitude": 53.8904068,
       "longitude": 27.5682085,

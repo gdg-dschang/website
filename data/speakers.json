@@ -2,14 +2,14 @@
     "1": {
         "id": 1,
         "featured": true,
-        "name": "Mete Atamel",
+        "name": "Lorem Ipsum",
         "title": "Developer Advocate",
         "company": "Google",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "London, United Kingdom",
-        "photoUrl": "/images/people/mete_atamel.jpg",
-        "shortBio": "Mete is a Developer Advocate at Google, currently focused on helping developers with Google Cloud...",
-        "bio": "Mete is a Developer Advocate at Google, currently focused on helping developers with Google Cloud Platform. As a long-time Java and a recent C# developer, he likes to compare the two ecosystems. Prior to Google, he worked at Microsoft, Skype, Adobe, EMC, and Nokia building apps and services on various web, mobile and cloud platforms. Originally from Cyprus, he currently lives in Greenwich, not too far away from the prime meridian.",
+        "companyLogo": "/images/logos/gdg-dschang.svg",
+        "country": "Dschang, Cameroon",
+        "photoUrl": "/images/people/default-m.jpg",
+        "shortBio": "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression...",
+        "bio": "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un peintre anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte.",
         "tags": [
             "Cloud",
             "Compute Engine",
@@ -22,31 +22,31 @@
             {
                 "icon": "linkedin",
                 "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/meteatamel/"
+                "link": "https://www.linkedin.com/in/gdg-dschang/"
             },
             {
                 "icon": "twitter",
                 "name": "Twitter",
-                "link": "https://twitter.com/meteatamel/"
+                "link": "https://twitter.com/gdgdschang/"
             },
             {
                 "icon": "github",
                 "name": "GitHub",
-                "link": "https://github.com/meteatamel/"
+                "link": "https://github.com/gdg-dschang/"
             }
         ]
     },
     "2": {
         "id": 2,
         "featured": true,
-        "name": "Yonatan Levin",
+        "name": "Lorem Ipsum",
         "title": "Android Evangelist & Developer",
         "company": "Gett",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "Tel Aviv, Israel",
-        "photoUrl": "/images/people/yonatan_levin.jpg",
-        "shortBio": "Born with the spirit of an entrepreneur, Yonatan loves to create, build and just do fun stuff in...",
-        "bio": "Born with the spirit of an entrepreneur, Yonatan loves to create, build and just do fun stuff in the technology field.\nYonatan is one of the top Israeli mobile developers, who is also a part of an elite worldwide group of Google Developer Experts.\nHis primary expertise is Android and Mobile UX, but is also friendly to backend technologies and people in general :)\nFounded and led 3 startups in the past, recently received funding for his new startup which is on the make.\nCurrently, Yonatan is taking a part of the startup Gett - the largest on-demand transportation, delivery, and logistics company which already raised more than $500M",
+        "companyLogo": "/images/logos/gdg-dschang.svg",
+        "country": "Bandjoun, Cameroon",
+        "photoUrl": "/images/people/default-f.jpg",
+        "shortBio": "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression...",
+        "bio": "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un peintre anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte.",
         "tags": [
             "Android",
             "Doze",
@@ -57,24 +57,24 @@
             {
                 "name": "GDE",
                 "description": "Android Google Developer Expert",
-                "link": "https://developers.google.com/experts/people/yonatan-levin.html"
+                "link": "https://developers.google.com/experts/people/gdg-dschang.html"
             }
         ],
         "socials": [
             {
                 "icon": "facebook",
                 "name": "Facebook",
-                "link": "https://www.facebook.com/levin.yonatan"
+                "link": "https://www.facebook.com/GDGdschang"
             },
             {
                 "icon": "twitter",
                 "name": "Twitter",
-                "link": "https://twitter.com/parahall"
+                "link": "https://twitter.com/gdgdschang"
             },
             {
                 "icon": "gplus",
                 "name": "Google+",
-                "link": "https://plus.google.com/+YonatanLevin"
+                "link": "https://plus.google.com/+GDGdschang"
             }
         ]
     },
