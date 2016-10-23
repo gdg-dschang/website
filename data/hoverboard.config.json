@@ -255,13 +255,13 @@
     "apiKey": "",
     "link": "https://www.facebook.com/lebspdedschang/info",
     "pointer": {
-      "latitude": 53.8904068,
-      "longitude": 27.5682085,
+      "latitude": 5.443933,
+      "longitude": 10.055006,
       "zoom": 15
     },
     "mapCenter": {
-      "latitude": 5.452124,
-      "longitude": 10.06815
+      "latitude": 5.447008,
+      "longitude": 10.063386
     },
     "images": [
       "/images/backgrounds/location_1.jpg",
