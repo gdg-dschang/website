@@ -1,0 +1,30 @@
+<img src="/images/posts/summary2-1.jpg" style="width: 100%;"/>
+
+Google IO 2016 is now over. It was a well enough. 
+We are happy to share with you some facts, emotions and, of course, photos from the biggest Google Developers Event in Dschang Cameroon!
+
+We warmly thank you for helping make [Google IO 2016](https://plus.google.com/photos/101390700541925663340/album/6300932825812521857?authkey=CNabw9Gpzq3zJg) a success.
+A BIG THANK to all the volunteers for their priceless help,  thanks to all the speakers for the great speeches and sharing their experience and knowledge.
+
+The event took place on 26th of June at the [SENAT PMUC Building](https://www.google.com/maps/place/5%C2%B026'43.6%22N+10%C2%B003'23.2%22E/@5.4417706,10.055801,463a,20y,41.29t/data=!3m1!1e3!4m5!3m4!1s0x0:0x0!8m2!3d5.445432!4d10.056438). Google IO was focused on Android, Web and Cloud technologies and also Community Hub. Over 50 people participated in the event with a mix of students and working professionals (more 70% experienced developers).
+
+**This day was full of discoveries and records:**
+
+* 3 parallel tracks of Android, Web and Cloud technologies and also community hub.
+* more than 7 sessions in technical hardcore and marketing !
+* The most useful 6 hours of workshops.
+
+<img src="/images/posts/summary2-2.jpg" style="width: 70%;"/>
+
+<img src="/images/posts/summary2-3.jpg" style="width: 70%;"/>
+
+Moreover attendees were able to see how to build nice looking front-end application using Polymer Starter Kit and predefined set of elements and components during [Tindo N. Arsel](https://github.com/tnga)’s workshop.
+<img src="/images/posts/summary2-4.jpg" style="width: 70%;"/>
+
+And, of course, we don't forget other workshops!
+<img src="/images/posts/summary2-5.jpg" style="width: 70%;"/>
+
+As you could see, the most wonderful part was atmosphere - full of geeks, speakers, visitors, and presenters.
+
+Thank you all!! You are awesome! Keep in touch with us!
+Cheers! ;)

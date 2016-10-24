@@ -1,29 +1,38 @@
 [
   {
-    "id": "devfest-ua-summary",
-    "title": "GDG DevFest Ukraine 2015 Summary",
-    "posted": "2015-10-24",
-    "primaryColor": "#5a7785",
-    "secondaryColor": "#455a64",
-    "image": "/images/posts/summary.jpg",
-    "brief": "GDG DevFest Ukraine 2015 is now over. It was a great success. We are happy to share with you some facts, emotions and, of course, photos from the biggest Google Developers Conference in Ukraine!"
+    "id": "devfest-west15-summary",
+    "title": "GDG DevFest West 2015 Summary",
+    "posted": "2015-10-28",
+    "primaryColor": "#212121",
+    "secondaryColor": "#757575",
+    "image": "/images/posts/summary1.jpg",
+    "brief": "GDG DevFest West 2015 is now over. It was a great success. We are happy to share with you some facts, emotions and, of course, photos from the biggest Google Developers Conference in West Cameroon!"
+  },
+  {
+    "id": "io16-summary",
+    "title": "Google IO 2016 Summary",
+    "posted": "2016-06-26",
+    "primaryColor": "#03A9F4",
+    "secondaryColor": "#0288D1",
+    "image": "/images/posts/summary2.jpg",
+    "brief": "Google IO 2016 is now over. It was a great success. We are happy to share with you some facts, emotions and, of course, photos from the biggest Google Developers Event in Dschang Cameroon!"
   },
   {
     "id": "devfest-2016-announced",
     "title": "GDG DevFest 2016 Announced",
-    "posted": "2016-05-04",
-    "primaryColor": "#00BCD4",
-    "secondaryColor": "#00BCD4",
-    "image": "/images/posts/announce.jpg",
-    "brief": "Ukrainian Google Developers Groups are proud to announce the fifth annual GDG DevFest 2016 which is the biggest Google related event in Ukraine carefully crafted by GDG community! The event will take place on **9-10th of September** in **Lviv**."
+    "posted": "2016-10-20",
+    "primaryColor": "#689F38",
+    "secondaryColor": "#8BC34A",
+    "image": "/images/posts/announce1.jpg",
+    "brief": "Cameroon West Google Developers Groups are proud to announce the fifth annual GDG DevFest 2016 which is the biggest Google related event in Dschang carefully crafted by GDG community! The event will take place on **12th of November**."
   },
   {
-    "id": "c4p-time",
+    "id": "dfw16-c4p-time",
     "title": "Call for Papers Time",
-    "posted": "2016-05-06",
+    "posted": "2016-10-22",
     "primaryColor": "#3F51B5",
     "secondaryColor": "#3F51B5",
-    "image": "/images/posts/c4p-is-open.jpg",
-    "brief": "GDG DevFest Ukraine 2016 announced! The 5th edition of the biggest conference about Google technologies in Ukraine will take on **September 9-10** in an ancient city of Lviv. That means that it is time to open [call for talk submissions](http://bit.ly/df16-c4p)."
+    "image": "/images/posts/dfw16-c4p-is-open.jpg",
+    "brief": "GDG DevFest 2016 announced! The 5th edition of the biggest conference about Google technologies in west cameroon will take on **November 12** in a city of Dschang. That means that it is time to open [call for talk submissions](https://plus.google.com/events/cjchmpkpooi2mico16mh5ora03k)."
   }
 ]
