@@ -22,6 +22,11 @@
         "name": "GDG[x]",
         "url": "https://github.com/gdg-x",
         "logoUrl": "../images/logos/gdg-x.svg"
+      },
+      {
+        "name": "Inwte",
+        "url": "http://inwte.com",
+        "logoUrl": "../images/logos/inwte-green.png"
       }
     ]
   }
