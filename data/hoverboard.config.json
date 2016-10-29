@@ -42,6 +42,7 @@
     "team": {
       "headerSettings": {
         "backgroundColor": "#5D4037",
+        "backgroundImage": "/images/backgrounds/team.jpg",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
