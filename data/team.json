@@ -3,170 +3,150 @@
     "title": "Core Team",
     "members": [
       {
-        "name": "Oleh Zasadnyy",
-        "photoUrl": "/images/people/oleh_zasadnyy.jpg",
+        "name": "Kemche Ghomsi Adrien A.",
+        "photoUrl": "/images/people/ghomsi.png",
         "socials": [
           {
             "icon": "gplus",
-            "link": "https://plus.google.com/+OlehZasadnyy",
+            "link": "https://plus.google.com/u/1/+ghomsiadrien",
             "name": "Google+"
           },
           {
             "icon": "facebook",
-            "link": "https://www.facebook.com/oleh.zasadnyy",
+            "link": "https://www.facebook.com/profile.php?id=100010203813906",
             "name": "Facebook"
           },
           {
             "icon": "twitter",
-            "link": "https://twitter.com/ozasadnyy",
+            "link": "https://twitter.com/ghomsiDev",
             "name": "Twitter"
           },
           {
-            "icon": "website",
-            "link": "http://o.zasadnyy.com/",
-            "name": "Blog"
+            "icon": "github",
+            "link": "https://github.com/ghomsi",
+            "name": "Github"
           }
         ],
-        "title": "Website and sponsors"
+        "title": "GDG Dschang Lead"
       },
       {
-        "name": "Sofiya Huts",
-        "photoUrl": "/images/people/sofiya_huts.jpg",
+        "name": "Donfack Ange",
+        "photoUrl": "/images/people/ange_donfack.jpg",
         "socials": [
           {
             "icon": "gplus",
-            "link": "https://plus.google.com/+SofiaHuts",
+            "link": "https://plus.google.com/u/1/102896567834840279199",
             "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/sophie.huts.7",
-            "name": "Facebook"
-          }
-        ],
-        "title": "Social and media"
-      },
-      {
-        "name": "Vitaliy Zasadnyy",
-        "photoUrl": "/images/people/vitaliy_zasadnyy.jpg",
-        "socials": [
-          {
-            "icon": "linkedin",
-            "link": "https://www.linkedin.com/in/zasadnyy",
-            "name": "Linkedin"
           },
           {
             "icon": "twitter",
-            "link": "https://twitter.com/zasadnyy",
+            "link": "https://twitter.com/angedonfack",
             "name": "Twitter"
           },
           {
-            "icon": "website",
-            "link": "http://v.zasadnyy.com/",
-            "name": "Blog"
-          }
-        ],
-        "title": "Speakers"
-      },
-      {
-        "name": "Marta Maxymiak",
-        "photoUrl": "/images/people/marta_maxymiak.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/104036874811391520583",
-            "name": "Google+"
-          },
-          {
             "icon": "facebook",
-            "link": "https://www.facebook.com/marta.maxymiak",
+            "link": "https://www.facebook.com/ange.donfack",
             "name": "Facebook"
           }
         ],
-        "title": "Party and happiness"
+        "title": "Women Techmakers Dschang Lead"
       },
       {
-        "name": "Ostap Andrusiv",
-        "photoUrl": "/images/people/ostap_andrusiv.jpg",
+        "name": "Foposse Tatang Leger",
+        "photoUrl": "/images/people/leger_foposse.jpg",
         "socials": [
           {
             "icon": "gplus",
-            "link": "https://google.com/+OstapAndrusiv",
+            "link": "https://plus.google.com/u/1/+legerfoposse",
             "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/ostap.andrusiv",
-            "name": "Facebook"
-          },
-          {
-            "icon": "twitter",
-            "link": "https://twitter.com/p1f",
-            "name": "Twitter"
-          },
-          {
-            "icon": "website",
-            "link": "http://andrusiv.com/",
-            "name": "Blog"
           }
         ],
-        "title": "Sponsors"
+        "title": "GDG Bandjoun Lead"
       },
       {
-        "name": "Vasylyna Mytsak",
-        "photoUrl": "/images/people/vasylyna_mytsak.jpg",
+        "name": "Fotsing Steve",
+        "photoUrl": "/images/people/fotsing_steve.jpg",
         "socials": [
           {
             "icon": "gplus",
-            "link": "https://plus.google.com/+ВасилинаМицак",
+            "link": "https://plus.google.com/u/1/106301468641653407908",
             "name": "Google+"
           },
           {
             "icon": "facebook",
-            "link": "https://www.facebook.com/vasylyna.mytsak",
+            "link": "https://www.facebook.com/steve.tomfeu",
             "name": "Facebook"
           }
         ],
-        "title": "Party and happiness"
+        "title": "Gdg Dschang Organizer"
       },
       {
-        "name": "Volodya Karpliuk",
-        "photoUrl": "/images/people/volodya_karpliuk.jpg",
+        "name": "Kapu Njikam Abdel R.",
+        "photoUrl": "/images/people/abdellah_ramadan.jpg",
         "socials": [
           {
             "icon": "gplus",
-            "link": "https://plus.google.com/+VolodyaKarpliuk23",
+            "link": "https://plus.google.com/u/1/+AbdellahRamadan",
             "name": "Google+"
           },
           {
             "icon": "facebook",
-            "link": "https://www.facebook.com/volodya.karpluk",
+            "link": "https://www.facebook.com/abdellah.ramadan1",
+            "name": "Facebook"
+          }
+        ],
+        "title": "GDG Foumban Lead"
+      },
+      {
+        "name": "Kutnjem Mouchikpou Romeo",
+        "photoUrl": "/images/people/kutnjem_romeo.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/u/1/109743108350655662418",
+            "name": "Google+"
+          }
+        ],
+        "title": "GDG Bagangté Lead"
+      },
+      {
+        "name": "Pajesse Kendjio",
+        "photoUrl": "/images/people/pajesse_kendjio.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/u/1/114399852228185781413",
+            "name": "Google+"
+          },
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/pajesse",
             "name": "Facebook"
           },
           {
             "icon": "twitter",
-            "link": "https://twitter.com/keyv23",
+            "link": "https://twitter.com/pajessekenjio",
             "name": "Twitter"
           }
         ],
-        "title": "Speakers"
+        "title": "Gdg Dschang Organizer"
       },
       {
-        "name": "Diana Pinchuk",
-        "photoUrl": "/images/people/diana_pinchuk.jpg",
+        "name": "Shey Tanyu",
+        "photoUrl": "/images/people/default-m.jpg",
         "socials": [
           {
-            "icon": "gplus",
-            "link": "https://plus.google.com/+DianaPinchuk",
-            "name": "Google+"
+            "icon": "twitter",
+            "link": "https://twitter.com/kstanyu",
+            "name": "Twitter"
           },
           {
             "icon": "facebook",
-            "link": "https://www.facebook.com/diana.pinchuk.9",
+            "link": "https://www.facebook.com/sheytanyu",
             "name": "Facebook"
           }
         ],
-        "title": "Social and media"
+        "title": "GDG Nkongsamba Lead"
       }
     ]
   },
@@ -174,43 +154,114 @@
     "title": "Program Committee",
     "members": [
       {
-        "name": "Ihor Dvoretskyi",
-        "photoUrl": "/images/people/ihor_dvoretskyi.jpg",
-        "socials": [
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/idvoretskyi",
-            "name": "Facebook"
-          },
-          {
-            "icon": "twitter",
-            "link": "https://twitter.com/idvoretskyi",
-            "name": "Twitter"
-          }
-        ],
-        "title": "Cloud stream"
-      },
-      {
-        "name": "Dmytro Danylyk",
-        "photoUrl": "/images/people/dmytro_danylyk.jpg",
+        "name": "Tindo N. Arsel",
+        "photoUrl": "/images/people/tnga.jpg",
         "socials": [
           {
             "icon": "gplus",
-            "link": "https://plus.google.com/+DmytroDanylyk",
+            "link": "https://plus.google.com/u/1/+Tindoarsel_tnga",
             "name": "Google+"
           },
           {
             "icon": "twitter",
-            "link": "https://twitter.com/dmytrodanylyk",
+            "link": "https://twitter.com/tng_arsel",
             "name": "Twitter"
           },
           {
-            "icon": "website",
-            "link": "http://www.dmytrodanylyk.com/#/about",
-            "name": "Website"
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/tngarsel",
+            "name": "Linkedin"
+          },
+          {
+            "icon": "github",
+            "link": "https://github.com/tnga",
+            "name": "Github"
           }
         ],
-        "title": "Android Stream"
+        "title": "Gdg Dschang Organizer"
+      },
+      {
+        "name": "Tabueu Fotso Cabrel L.",
+        "photoUrl": "/images/people/tafoca.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/u/1/108055450970793024633",
+            "name": "Google+"
+          },
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/cabrel.fotso.5",
+            "name": "Facebook"
+          },
+          {
+            "icon": "github",
+            "link": "https://github.com/tafoca",
+            "name": "Github"
+          }
+        ],
+        "title": "Gdg Dschang Organizer"
+      },
+      {
+        "name": "Feuti Joel",
+        "photoUrl": "/images/people/joelovichh.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/u/0/100230172103124460973",
+            "name": "Google+"
+          },
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/joelovichh",
+            "name": "Facebook"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/joelovich3",
+            "name": "Twitter"
+          }
+        ],
+        "title": "Gdg Dschang Organizer"
+      },
+      {
+        "name": "Taboula Fopa jems",
+        "photoUrl": "/images/people/james_foppa.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/u/0/112513581476717934595",
+            "name": "Google+"
+          },
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/james.foppa",
+            "name": "Facebook"
+          }
+        ],
+        "title": "Gdg Dschang Organizer"
+      },
+      {
+        "name": "Fouejio Ulrcih",
+        "photoUrl": "/images/people/default-m.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/u/0/112334809192335606492",
+            "name": "Google+"
+          },
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/ulrich.legrand.1",
+            "name": "Facebook"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/legrandulrich",
+            "name": "Twitter"
+          }
+        ],
+        "title": "Gdg Dschang Technical Manager"
       }
     ]
   }
