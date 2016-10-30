@@ -1,16 +1,5 @@
 [
   {
-    "title": "template-creator",
-    "logos": [
-      {
-        "name": "GDG Lviv",
-        "url": "https://plus.google.com/102444623953913144164",
-        "logoUrl": "../images/logos/gdg-lviv.svg",
-        "width": 170
-      }
-    ]
-  },
-  {
     "title": "general-partner",
     "logos": [
       {
@@ -19,14 +8,26 @@
         "logoUrl": "../images/logos/google.svg"
       },
       {
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/logos/gdg-x.svg"
-      },
-      {
         "name": "Inwte",
         "url": "http://inwte.com",
         "logoUrl": "../images/logos/inwte-green.png"
+      }
+    ]
+  },
+  {
+    "title": "template-creator",
+    "logos": [
+      {
+        "name": "GDG Lviv",
+        "url": "https://plus.google.com/102444623953913144164",
+        "logoUrl": "../images/logos/gdg-lviv.svg",
+        "width": 128
+      },
+      {
+        "name": "GDG[x]",
+        "url": "https://github.com/gdg-x",
+        "logoUrl": "../images/logos/gdg-x.svg",
+        "width": 128
       }
     ]
   }
