@@ -1,3 +1,6 @@
+
+![preview-web](images/gdgdschang16-banner.jpg)
+
 # GDG Dschang official website
 > Be a Google Developers Group. Be a Hero!
 
