@@ -1,4 +1,4 @@
-Cameroon West Google Developers Groups are proud to announce the fifth annual GDG DevFest 2016 which is the biggest Google related event in Dschang carefully crafted by GDG community! The event will take place on **12th of November**.
+Cameroon West Google Developers Groups are proud to announce the fifth annual GDG DevFest 2016 which is the biggest Google related event in Dschang carefully crafted by GDG community! The event will take place on **26th of November**.
 
 ### What to expect
 
