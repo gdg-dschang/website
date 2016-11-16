@@ -2,91 +2,72 @@
     "1": {
         "id": 1,
         "featured": true,
-        "name": "Lorem Ipsum",
-        "title": "Developer Advocate",
-        "company": "Google",
+        "name": "Foposse Tatang Leger",
+        "title": "GDG Bandjoun Lead",
+        "company": "GDG Bandjoun",
         "companyLogo": "/images/logos/gdg-dschang.svg",
-        "country": "Dschang, Cameroon",
-        "photoUrl": "/images/people/default-m.jpg",
-        "shortBio": "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression...",
+        "country": "Bandjoun, Cameroon",
+        "photoUrl": "/images/people/leger_foposse.jpg",
+        "shortBio": "Introduction to Firebase ...",
         "bio": "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un peintre anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte.",
         "tags": [
             "Cloud",
             "Compute Engine",
-            "gRPC"
+            "Firebase"
         ],
         "badges": [
 
         ],
         "socials": [
             {
-                "icon": "linkedin",
-                "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/gdg-dschang/"
-            },
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/gdgdschang/"
-            },
-            {
-                "icon": "github",
-                "name": "GitHub",
-                "link": "https://github.com/gdg-dschang/"
+                "icon": "gplus",
+                "link": "https://plus.google.com/u/1/+legerfoposse",
+                "name": "Google+"
             }
         ]
     },
     "2": {
         "id": 2,
         "featured": true,
-        "name": "Lorem Ipsum",
-        "title": "Android Evangelist & Developer",
-        "company": "Gett",
+        "name": "Kutnjem Mouchikpou Romeo",
+        "title": "GDG Bagangté Lead",
+        "company": "GDG Bagangté",
         "companyLogo": "/images/logos/gdg-dschang.svg",
-        "country": "Bandjoun, Cameroon",
-        "photoUrl": "/images/people/default-f.jpg",
-        "shortBio": "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression...",
+        "country": "Bagangté, Cameroon",
+        "photoUrl": "/images/people/kutnjem_romeo.jpg",
+        "shortBio": "Introduction to the frontend framework like angularjs, emberjs ...",
         "bio": "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un peintre anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte.",
         "tags": [
-            "Android",
-            "Doze",
+            "AngularJS",
+            "Polymer",
             "Mobile UX",
-            "Entrepreneurship"
+            "Framework"
         ],
         "badges": [
         ],
         "socials": [
             {
-                "icon": "facebook",
-                "name": "Facebook",
-                "link": "https://www.facebook.com/GDGdschang"
-            },
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/gdgdschang"
-            },
-            {
                 "icon": "gplus",
-                "name": "Google+",
-                "link": "https://plus.google.com/+GDGdschang"
+                "link": "https://plus.google.com/u/1/109743108350655662418",
+                "name": "Google+"
             }
         ]
     },
     "3": {
         "id": 3,
         "featured": true,
-        "name": "Lorem Ipsum",
-        "title": "Senior Developer Evangelist Connected Home",
-        "company": "Google",
+        "name": "Fotsing Steve",
+        "title": "Product Manager/Developer",
+        "company": "GDG Dschang",
         "companyLogo": "/images/logos/gdg-dschang.svg",
-        "country": "Bagante,Cameroon",
-        "photoUrl": "/images/people/default-m.jpg",
-        "shortBio": "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression...",
+        "country": "Dschang,Cameroon",
+        "photoUrl": "/images/people/fotsing_steve.jpg",
+        "shortBio": "Learn Developping mobile app in android ...",
         "bio": "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un peintre anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte.",     
         "tags": [
             "Mobile UX",
-            "Entrepreneurship"
+            "Codelab",
+            "Android"
         ],
         "badges": [
 
@@ -95,35 +76,32 @@
             {
                 "icon": "facebook",
                 "name": "Facebook",
-                "link": "https://www.facebook.com/GDGdschang"
-            },
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/gdgdschang"
+                "link": "https://www.facebook.com/steve.tomfeu"
             },
             {
                 "icon": "gplus",
                 "name": "Google+",
-                "link": "https://plus.google.com/+GDGdschang"
+                "link": "https://plus.google.com/u/1/106301468641653407908"
             }
         ]
     },
      "4": {
         "id": 4,
         "featured": true,
-        "name": "Lorem Ipsum",
-        "title": "Software Engineer",
-        "company": "Google",
+        "name": "Kemche Ghomsi Adrien A.",
+        "title": "GDG Dschang Lead, Software Engineer",
+        "company": "GDG Dschang",
         "companyLogo": "/images/logos/gdg-dschang.svg",
-        "country": "Bafoussam,Cameroon",
-        "photoUrl": "/images/people/default-m.jpg",
-        "shortBio": "...",
+        "country": "Dschang,Cameroon",
+        "photoUrl": "/images/people/ghomsi.png",
+        "shortBio": "Learn how to use Git and Github to work in teams on a projet (Codelab Android Projet) ...",
         "bio": "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un peintre anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte.",
         "tags": [
-            "Cloud",
+            "Github",
             "Performance",
-            "TensorFlow"
+            "Git",
+            "Codelab",
+            "Android"
         ],
         "badges": [
 
@@ -131,82 +109,119 @@
         "socials": [
             {
                 "icon": "gplus",
-                "name": "Google+",
-                "link": "https://plus.google.com/+GDGdschang"
+                "link": "https://plus.google.com/u/1/+ghomsiadrien",
+                "name": "Google+"
+            },
+            {
+                "icon": "facebook",
+                "link": "https://www.facebook.com/profile.php?id=100010203813906",
+                "name": "Facebook"
+            },
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/ghomsiDev",
+                "name": "Twitter"
+            },
+            {
+                "icon": "github",
+                "link": "https://github.com/ghomsi",
+                "name": "Github"
             }
         ]
     },
     "5": {
         "id": 5,
         "featured": true,
-        "name": "Lorem Ipsum",
-        "title": "Product Manager/Developer",
-        "company": "Sygic",
+        "name": "Shey Tanyu Kingsly",
+        "title": "GDG Nkongsamba Lead, Opensource Developer",
+        "company": "GDG Nkongsamba",
         "companyLogo": "/images/logos/gdg-dschang.svg",
-        "country": "Foumban,Cameroon",
-        "photoUrl": "/images/people/default-m.jpg",
-        "shortBio": "...",
-        "bio": "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un peintre anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte.",
+        "country": "Nkongsamba,Cameroon",
+        "photoUrl": "/images/people/sheytanyu.jpg",
+        "shortBio": "Learn how to use some Api of Google to develop web app and mobile app ...",
+        "bio": "Love's problem solving, leveraging the power of Computer Science. Passionate about algorithm, computer programming and the use of Tech To make the world a better place. Excellence is All I chase!",
         "tags": [
             "Android",
-            "Entrepreneurship"
+            "Cloud",
+            "Web",
+            "API"
         ],
         "badges": [
 
         ],
         "socials": [
             {
-                "icon": "gplus",
-                "name": "Google+",
-                "link": "https://plus.google.com/+GDGdschang"
+                "icon": "twitter",
+                "link": "https://twitter.com/kstanyu",
+                "name": "Twitter"
+            },
+            {
+                "icon": "facebook",
+                "link": "https://www.facebook.com/sheytanyu",
+                "name": "Facebook"
             }
         ]
     },
    "6": {
         "id": 6,
         "featured": true,
-        "name": "Lorem Ipsum",
-        "title": "Technical Evangelist",
-        "company": "AngularZone",
-        "companyLogo": "/images/logos/gdg-dschang.svg",
+        "name": "Tindo N. Arsel",
+        "title": "Software Engineer, Self-taught Researcher",
+        "company": "INWTE",
+        "companyLogo": "/images/logos/inwte-green.png",
         "country": "Dschang,Cameroon",
-        "photoUrl": "/images/people/default-f.jpg",
-        "shortBio": "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression...",
-        "bio": "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un peintre anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte.",
+        "photoUrl": "/images/people/tnga.jpg",
+        "shortBio": "Introduction to Machine Learning and TensorFlow: \"gives computers the ability to learn without being explicitly programmed\" (Arthur Samuel, 1959). ...",
+        "bio": "Like working, honesty, perseverance, sports, kids, ... One of my favorite citation by **Gandhi** is: >Be the change you want to see in the world.",
         "tags": [
-            "Web",
-            "Angular",
-            "Progressive Web Apps"
+            "AI",
+            "Cloud",
+            "Libraries",
+            "TensorFlow",
+            "Linux"
         ],
         "badges": [
         ],
         "socials": [
             {
-                "icon": "facebook",
-                "name": "Facebook",
-                "link": "https://www.facebook.com/GDGdschang"
+                "icon": "gplus",
+                "link": "https://plus.google.com/u/1/+Tindoarsel_tnga",
+                "name": "Google+"
             },
             {
                 "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/gdgdschang"
+                "link": "https://twitter.com/tng_arsel",
+                "name": "Twitter"
+            },
+            {
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/tngarsel",
+                "name": "Linkedin"
+            },
+            {
+                "icon": "github",
+                "link": "https://github.com/tnga",
+                "name": "Github"
             }
         ]
     },
     "7": {
         "id": 7,
         "featured": true,
-        "name": "Lorem Ipsum",
-        "title": "Developer Relations Program Manager",
-        "company": "Google",
-        "companyLogo": "/images/logos/gdg-dschang.svg",
-        "country": "Dschang, Cameroon",
-        "photoUrl": "/images/people/default-f.jpg",
-        "shortBio": "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression...",
-        "bio": "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un peintre anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte.",
+        "name": "Tabueu Fotso Cabrel L.",
+        "title": "Senior Developer, Researcher",
+        "company": "INWTE",
+        "companyLogo": "/images/logos/inwte-green.png",
+        "country": "Dschang,Cameroon",
+        "photoUrl": "/images/people/tafoca.jpg",
+        "shortBio": "Introduction to Machine Learning and TensorFlow: \"gives computers the ability to learn without being explicitly programmed\" (Arthur Samuel, 1959). ...",
+        "bio": "Like working, honesty, perseverance, sports, kids, ... One of my favorite citation by **Gandhi** is: >Be the change you want to see in the world.",
         "tags": [
+            "AI",
             "Cloud",
-            "Firebase"
+            "Libraries",
+            "TensorFlow",
+            "Linux"
         ],
         "badges": [
 
@@ -215,17 +230,17 @@
             {
                 "icon": "facebook",
                 "name": "Facebook",
-                "link": "https://www.facebook.com/GDGdschang"
+                "link": "https://www.facebook.com/cabrel.fotso.5"
             },
             {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/gdgdschang"
+                "icon": "github",
+                "link": "https://github.com/tafoca",
+                "name": "Github"
             },
             {
                 "icon": "gplus",
                 "name": "Google+",
-                "link": "https://plus.google.com/+GDGdschang"
+                "link": "https://plus.google.com/u/1/108055450970793024633"
             }
         ]
     },
