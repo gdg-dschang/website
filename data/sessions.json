@@ -7,25 +7,25 @@
   },
   "139": {
     "id": 139,
-    "title": "Keynote",
+    "title": "Keynote - Welcome to DevFest West 2016",
     "description": "",
     "language": "English"
   },
   "138": {
     "id": 138,
-    "title": "Conference closing and contest winners announcements",
-    "description": "Make sure you won't miss closing ceremony, all gifts from out sponsors and partners will find their owners during this session.",
-    "image": "/images/backgrounds/closing.jpg"
+    "title": "Special guests's space",
+    "description": "Make sure you won't miss it, take a look of opportunities our sponsors and partners can provide to you, all gifts from out them will find their owners during this session.",
+    "image": "/images/backgrounds/sponsor.jpg"
   },
   "137": {
     "id": 137,
     "title": "Afterparty & Networking",
-    "description": "Afterparty is a great time to have some fun and meet new people",
+    "description": "Afterparty and Networking is a great time to have some fun and meet new people",
     "image": "/images/backgrounds/party.jpg"
   },
   "136": {
     "id": 136,
-    "title": "GDG DevFest Ukraine 2016 Opening",
+    "title": "GDG DevFest West 2016 Opening",
     "description": "Official start of the conference. Greetings from the organizers, sponsors and partners.",
     "language": "English",
     "image": "/images/backgrounds/opening.jpg"
@@ -38,8 +38,8 @@
   },
   "134": {
     "id": 134,
-    "title": "Coffee break",
-    "description": "Coffeeeeeee!",
+    "title": "Coffee break & Lunch",
+    "description": "Coffeeeeeee & Foooooooood !",
     "image": "/images/backgrounds/coffee-break.jpg"
   },
   "133": {
@@ -56,17 +56,9 @@
   },
   "131": {
     "id": 131,
-    "title": "Deal with it: Android DataBinding explained",
-    "description": "In this talk, I will reveal you all the deepest secrets of using MVVM architecture in Android. \nWe will discuss on how to organise your application, views, models, how to retrieve data from the model requested from the view via data binding. \nLightweight Activities and Fragments, is it even possible? \n\nYes, and I will show you how to achieve this with MVVM and DataBinding!",
-    "speakers": [
-      27
-    ],
-    "language": "English",
-    "complexity": "Intermediate",
-    "tags": [
-      "Android"
-    ],
-    "presentation": "https://speakerdeck.com/gdglviv/roman-herasymenko-deal-with-it-android-databinding-explained"
+    "title": "Conference closing !",
+    "description": "End of the greatest Google devfest 2016 event in West Cameroon. Hope you people have enjoy and be more equiped to make fun stuff for tomorrow technologies",
+    "image": "/images/backgrounds/closing.jpg"
   },
   "130": {
     "id": 130,
@@ -370,47 +362,6 @@
   },
   "108": {
     "id": 108,
-    "title": "New Data Architecture in Angular 2",
-    "description": "Angular 2 introduces a new Data Architecture based on Reactive Programming using RxJS 5. We are really excited to see the new approach using Observable sequences aka Observables. We will cover a basic introduction of Angular 2 followed by RxJS 5 and the new HTTP API covering some basic use cases.",
-    "speakers": [
-      6
-    ],
-    "language": "English",
-    "complexity": "Intermediate",
-    "tags": [
-      "Web"
-    ],
-    "presentation":"https://speakerdeck.com/gdglviv/gerard-sans-new-data-architecture-in-angular-2"
-  },
-  "107": {
-    "id": 107,
-    "title": "Introduction to Progressive Web Apps in Angular 2",
-    "description": "There's been much discussion about Progressive Web Apps. They're still a relatively new model. In this talk, I'll summarise few options and techniques for getting started with your own Progressive Web App",
-    "speakers": [
-      6
-    ],
-    "language": "English",
-    "complexity": "Beginner",
-    "tags": [
-      "Web"
-    ]
-  },
-  "106": {
-    "id": 106,
-    "title": "Fuelio. Success story",
-    "description": "Fuelio. Success story (I'll write more info later)",
-    "speakers": [
-      5
-    ],
-    "language": "English",
-    "complexity": "Beginner",
-    "tags": [
-      "Android"
-    ],
-    "presentation":"https://speakerdeck.com/gdglviv/adrian-kajda-fuelio-success-story"
-  },
-  "105": {
-    "id": 105,
     "title": "Intro to TensorFlow",
     "description": "TBD",
     "speakers": [
@@ -423,59 +374,103 @@
     ],
     "presentation":"https://speakerdeck.com/gdglviv/rustem-arzymbetov-intro-to-tensorflow"
   },
+  "107": {
+    "id": 107,
+    "title": "Introduction to Machine Learning and TensorFlow",
+    "description": "\"Gives computers the ability to learn without being explicitly programmed\" (Arthur Samuel, 1959). By using algorithms to build models that uncover connections, organizations can make better decisions without human intervention. Learn more about this solution that's shaping the world we live in.",
+    "speakers": [
+      7
+    ],
+    "language": "English",
+    "complexity": "Intermediate",
+    "tags": [
+      "Cloud"
+    ],
+    "presentation":"https://speakerdeck.com/gdglviv/rustem-arzymbetov-intro-to-tensorflow"
+  },
+  "106": {
+    "id": 106,
+    "title": "Introduction to Machine Learning and TensorFlow",
+    "description": "\"Gives computers the ability to learn without being explicitly programmed\" (Arthur Samuel, 1959). By using algorithms to build models that uncover connections, organizations can make better decisions without human intervention. Learn more about this solution that's shaping the world we live in.",
+    "speakers": [
+      6, 7
+    ],
+    "language": "English",
+    "complexity": "Intermediate",
+    "tags": [
+      "Cloud",
+      "A.I"
+    ],
+    "presentation":"https://speakerdeck.com/gdglviv/rustem-arzymbetov-intro-to-tensorflow"
+  },
+  "105": {
+    "id": 105,
+    "title": "Learn how to use some Api of Google to develop web app and mobile app",
+    "description": "Google APIs is a set of application programming interfaces (APIs) developed by Google which allow communication with Google Services and their integration to other services. Examples of these include Search, Gmail, Translate or Google Maps. Third-party apps can use these APIs to take advantage of or extend the functionality of the existing services.",
+    "speakers": [
+      5
+    ],
+    "language": "English",
+    "complexity": "Intermediate",
+    "tags": [
+      "Cloud"
+    ],
+    "presentation":"#"
+  },
   "104": {
     "id": 104,
-    "title": "The Physical Web: Context is King!",
-    "description": "It's no longer just about digitizing our environment. It\u2019s rather about pervasive and ubiquitous computing. Almost all everyday things will turn into connected devices soon. This \u201cInternet of Things\u201d will allow the Web to be physically tangible. But what is the value, and how can one prevent IoT applications which just seem to be only more expensive and complicated than conventional solutions. Sascha will discuss the purpose and guide you through this complex topic showing inspiring solutions, tips from practice, and code samples in a variety of technologies from simple Bluetooth Eddystone Beacons to more sophisticated IoT platforms like Eclipse SmartHome.",
+    "title": "Learn how to use Git and Github to work in teams on a projet",
+    "description": "As developers, a lot of the time we tend to work on local development project then just upload everything when we’re done. This is fine when it’s just you and the changes are small, but when you’re dealing with more than one person working on something, or on a large project with lots of complicated components, that’s simply not feasible. That’s when we turn to something called version control. By far, the most widely used modern version control system in the world today is Git. That said there is a web-based Git repository hosting service like GitHub, Gitlab, ...",
+    "speakers": [
+      4
+    ],
+    "language": "French",
+    "complexity": "Beginner",
+    "tags": [
+      "Cloud"
+    ],
+    "presentation":"#"
+  },
+  "103": {
+    "id": 103,
+    "title": "Learn Developping mobile app in android",
+    "description": "Imagine the world where you can get any application, look into its code (even if it is not open sourced) and modify any conditional operator in any way you like. Welcome, you are in the Android applications world! Let's discover how anyone can decompile your app and, for example, hack your 'if' operators. For the beginning, we will play a role of a script kiddie and try to hack some simple app. After this, we will pretend security-conscious Android developers and try to think how we can protect ourselves.",
     "speakers": [
       3
+    ],
+    "language": "French",
+    "complexity": "Intermediate",
+    "tags": [
+      "Android"
+    ],
+    "presentation":"#"
+  },
+  "102": {
+    "id": 102,
+    "title": "Introduction to the frontend framework",
+    "description": "One of my favourite things about the web are ASCII smileys. They're sweet, fun and simply make the web a better place. How could anyone not like them \u00af(\u30c4)/\u00af?\n\nThis talk is an overdose of smileys, because they're the perfect excuse to get started with frontend framework like Angularjs, Emberjs and Polymer. Polymer is a library built on top of the Web Components standards that helps developers create reusable components for the modern web. And since I know that everybody has been wondering how one could take over the world by creating a suite of Polymer animated emoticon components, we're going to do exactly that.",
+    "speakers": [
+      2
     ],
     "language": "English",
     "complexity": "Beginner",
     "tags": [
       "Web"
     ],
-    "presentation":"https://speakerdeck.com/gdglviv/sascha-wolter-the-physical-web-context-is-king"
-  },
-  "103": {
-    "id": 103,
-    "title": "Knock knock! Who's there? Doze.",
-    "description": "Doze mode is just around the corner. \nIntroduced in Marshmallow, as the shy guy that was allowed to step in only when your device went to sleep. ZzzZzzzz\nWith the new N release, Doze mode becomes the rockstar. He rushes into the room with a big shabang by shooting all background services and network requests that forgot to get away. \nHe should no longer be shy. He just shoots and dances on bones of your scheduled alarms, while you wonder why this particular task is no longer running.\nWith the new Doze mode, you require to adapt your app architecture to the new reality.\nOn this talk, we will learn how to survive Doze mode using Job Scheduler, Content Provider and stay in one piece.",
-    "speakers": [
-      2
-    ],
-    "language": "English",
-    "complexity": "Intermediate",
-    "tags": [
-      "Android"
-    ],
-    "presentation":"https://speakerdeck.com/gdglviv/yonatan-levin-knock-knock-whos-there-doze"
-  },
-  "102": {
-    "id": 102,
-    "title": "Hands-on gRPC experience building your own multiplayer game client",
-    "description": "Do you remember the game Simon says from the 80s? I don\u2019t know about you, but I know many that spent hours trying to press those specific sequences of red, green, blue and yellow buttons in the correct order. But why play on your own? We\u2019ve implemented a gRPC server that allows you to play Simon with other players over the internet!\n\nIn this workshop we will dive into the toolset and libraries to build your very own Simon Says client for this server. We will have a message description in Protocol Buffers format and some stub code in several languages ready for you to play with. The goal for this workshop is for you to have a working client that you can use to play (and beat!) other attendees of the workshop.",
-    "speakers": [
-      1
-    ],
-    "language": "English",
-    "complexity": "Beginner",
-    "tags": [
-      "Cloud"
-    ]
+    "presentation":"#"
   },
   "101": {
     "id": 101,
-    "title": "Windows and .NET on Google Cloud Platform ",
-    "description": "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
+    "title": "Introduction to Firebase",
+    "description": "I would like to talk about architecture of our Settle Up app. It's all based on new Firebase announced on I/O with the help of modern frameworks like Rx, Kotlin and MVP. Discover how much money Firebase can save you",
     "speakers": [
       1
     ],
-    "language": "English",
-    "complexity": "Beginner",
+    "language": "French",
+    "complexity": "Intermediate",
     "tags": [
       "Cloud"
     ],
-    "presentation":"https://speakerdeck.com/gdglviv/mete-atamel-windows-and-net-on-google-cloud-platform"
+    "presentation":"#"
   }
 }
