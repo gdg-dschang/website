@@ -170,7 +170,7 @@
         "company": "GDG Dschang",
         "companyLogo": "/images/logos/gdg-dschang.svg",
         "country": "Dschang, Cameroon",
-        "photoUrl": "/images/people/default-f.jpg",
+        "photoUrl": "/images/people/glorie.jpg",
         "shortBio": "Google and Android 7.0 Nougat (N) ...",
         "bio": "Like working, honesty, perseverance, sports, kids, ... One of my favorite citation by **Gandhi** is: >Be the change you want to see in the world.",
         "tags": [
@@ -182,17 +182,17 @@
         "socials": [
             {
                 "icon": "gplus",
-                "link": "https://plus.google.com/u/1/+Tindoarsel_tnga",
+                "link": "https://plus.google.com/100237033631813295072",
                 "name": "Google+"
             },
             {
-                "icon": "twitter",
-                "link": "https://twitter.com/tng_arsel",
-                "name": "Twitter"
+                "icon": "facebook",
+                "link": "https://www.facebook.com/metsaglorie",
+                "name": "Facebook"
             },
             {
                 "icon": "linkedin",
-                "link": "https://www.linkedin.com/in/tngarsel",
+                "link": "https://cm.linkedin.com/in/glorie-metsa-726048113",
                 "name": "Linkedin"
             }
         ]
