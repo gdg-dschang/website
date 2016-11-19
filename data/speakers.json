@@ -95,7 +95,7 @@
         "country": "Dschang,Cameroon",
         "photoUrl": "/images/people/ghomsi.png",
         "shortBio": "Learn how to use Git and Github to work in teams on a projet (Codelab Android Projet) ...",
-        "bio": "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un peintre anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte.",
+        "bio": "Passionate about science and technologie. I'm still borrowing to new ideas, concepts and projects. Always do what i believe to.",
         "tags": [
             "Github",
             "Performance",
@@ -165,6 +165,41 @@
    "6": {
         "id": 6,
         "featured": true,
+        "name": "Metsa Glorie",
+        "title": "Junior Developer, Researcher Student",
+        "company": "GDG Dschang",
+        "companyLogo": "/images/logos/gdg-dschang.svg",
+        "country": "Dschang, Cameroon",
+        "photoUrl": "/images/people/default-f.jpg",
+        "shortBio": "Google and Android 7.0 Nougat (N) ...",
+        "bio": "Like working, honesty, perseverance, sports, kids, ... One of my favorite citation by **Gandhi** is: >Be the change you want to see in the world.",
+        "tags": [
+            "Android",
+            "Cloud"
+        ],
+        "badges": [
+        ],
+        "socials": [
+            {
+                "icon": "gplus",
+                "link": "https://plus.google.com/u/1/+Tindoarsel_tnga",
+                "name": "Google+"
+            },
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/tng_arsel",
+                "name": "Twitter"
+            },
+            {
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/tngarsel",
+                "name": "Linkedin"
+            }
+        ]
+    },
+    "7": {
+        "id": 7,
+        "featured": true,
         "name": "Tindo N. Arsel",
         "title": "Software Engineer, Self-taught Researcher",
         "company": "INWTE",
@@ -205,8 +240,8 @@
             }
         ]
     },
-    "7": {
-        "id": 7,
+    "8": {
+        "id": 8,
         "featured": true,
         "name": "Tabueu Fotso Cabrel L.",
         "title": "Senior Developer, Researcher",

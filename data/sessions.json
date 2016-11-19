@@ -379,27 +379,27 @@
     "title": "Introduction to Machine Learning and TensorFlow",
     "description": "\"Gives computers the ability to learn without being explicitly programmed\" (Arthur Samuel, 1959). By using algorithms to build models that uncover connections, organizations can make better decisions without human intervention. Learn more about this solution that's shaping the world we live in.",
     "speakers": [
-      7
-    ],
-    "language": "English",
-    "complexity": "Intermediate",
-    "tags": [
-      "Cloud"
-    ],
-    "presentation":"https://speakerdeck.com/gdglviv/rustem-arzymbetov-intro-to-tensorflow"
-  },
-  "106": {
-    "id": 106,
-    "title": "Introduction to Machine Learning and TensorFlow",
-    "description": "\"Gives computers the ability to learn without being explicitly programmed\" (Arthur Samuel, 1959). By using algorithms to build models that uncover connections, organizations can make better decisions without human intervention. Learn more about this solution that's shaping the world we live in.",
-    "speakers": [
-      6, 7
+      7, 8
     ],
     "language": "English",
     "complexity": "Intermediate",
     "tags": [
       "Cloud",
       "A.I"
+    ],
+    "presentation":"https://speakerdeck.com/gdglviv/rustem-arzymbetov-intro-to-tensorflow"
+  },
+  "106": {
+    "id": 106,
+    "title": "Google and Android 7.0 Nougat (N)",
+    "description": "\"Gives computers the ability to learn without being explicitly programmed\" (Arthur Samuel, 1959). By using algorithms to build models that uncover connections, organizations can make better decisions without human intervention. Learn more about this solution that's shaping the world we live in.",
+    "speakers": [
+      6
+    ],
+    "language": "French",
+    "complexity": "Intermediate",
+    "tags": [
+      "Android"
     ],
     "presentation":"https://speakerdeck.com/gdglviv/rustem-arzymbetov-intro-to-tensorflow"
   },
