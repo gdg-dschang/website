@@ -195,7 +195,9 @@
     }
   }
 
-  centerLoaderPosition() ;
+  // time out to increase probability to have a correct window's offset height value,
+  // knowing that at the first start, page can't be well rendered.
+  setTimeout(centerLoaderPosition, 500);
   window.addEventListener('resize', centerLoaderPosition, false);
 </script>
 
