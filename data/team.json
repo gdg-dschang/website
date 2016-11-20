@@ -147,6 +147,28 @@
           }
         ],
         "title": "GDG Nkongsamba Lead"
+      },
+      {
+        "name": "Fouejio Ulrcih",
+        "photoUrl": "/images/people/legrandulrich.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/u/0/112334809192335606492",
+            "name": "Google+"
+          },
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/ulrich.legrand.1",
+            "name": "Facebook"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/legrandulrich",
+            "name": "Twitter"
+          }
+        ],
+        "title": "Gdg Dschang Technical Manager"
       }
     ]
   },
@@ -240,28 +262,6 @@
           }
         ],
         "title": "Gdg Dschang Organizer"
-      },
-      {
-        "name": "Fouejio Ulrcih",
-        "photoUrl": "/images/people/default-m.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/u/0/112334809192335606492",
-            "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/ulrich.legrand.1",
-            "name": "Facebook"
-          },
-          {
-            "icon": "twitter",
-            "link": "https://twitter.com/legrandulrich",
-            "name": "Twitter"
-          }
-        ],
-        "title": "Gdg Dschang Technical Manager"
       }
     ]
   }
