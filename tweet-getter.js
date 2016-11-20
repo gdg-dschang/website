@@ -1,4 +1,4 @@
-/* This script is for automatically get tweet with some time interval, considering a given hashtag.
+/* This script is for automatically get tweets considering a given hashtag.
  * 
  * --github: well done @tnga, @mpoehler
 */
@@ -22,7 +22,7 @@ var tw = new Twit({
  *          -[string] until : end date 
  *          -* more on https://dev.twitter.com/rest/reference/get/search/tweets * 
  *
- * @TODO cron job way for automation, adjust corresponding documentation
+ * @NOTE: A cron job associated for interval automation.
  */
 function fetchTweet (keyword, queryOpts) {
     if (!(queryOpts instanceof Object)) queryOpts = {};
@@ -38,7 +38,7 @@ function fetchTweet (keyword, queryOpts) {
             if(err) {
                 return console.log(err);
             }
-            console.log("The file was saved!");
+            console.log("twitter-"+ queryOpts.q +": The file was saved!");
         });
     });
 }

@@ -46,3 +46,32 @@ The instructions below are based on the [Firebase quick start][Firebase quick st
 
 [Firebase quick start]: https://firebase.google.com/docs/hosting/quickstart
 [Firebase console]: https://firebase.google.com/console/
+
+# Deploy to conventional server
+Normally, Hoverboard can be deployed to any web server with conventional requirements. 
+That said, if it isn't served via a particular way (e.g: `polymer serve`),
+to avoid some routing issues, you will probabily need to configure your server to always *index.html* and a *200* OK response.
+Referencing [this issue](https://github.com/gdg-x/hoverboard/issues/190), for hosting service through apache,
+a *.htaccess* file can be defined in the project with following rules:
+```
+<IfModule mod_rewrite.c>
+    <IfModule mod_negotiation.c>
+        Options -MultiViews
+    </IfModule>
+
+    RewriteEngine On
+
+    # Redirect Trailing Slashes If Not A Folder...
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule ^(.*)/$ /$1 [L,R=301]
+
+    # Handle Front Controller...
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^ index.html [L]
+
+    # Handle Authorization Header
+    RewriteCond %{HTTP:Authorization} .
+    RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+</IfModule>
+``` 

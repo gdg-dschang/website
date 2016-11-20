@@ -64,6 +64,8 @@ Project Hoverboard is still under development, and it is open for contributions.
 Feel free to send PR. If you have any questions, feel free to contact 
 [Oleh Zasadnyy](https://plus.google.com/+OlehZasadnyy).
 
+## GDG Dschang website project
+
 ###### Prerequisites
     
 :point_right: **[Fork](https://github.com/gdg-dschang/website/fork) this repository** and clone it locally.

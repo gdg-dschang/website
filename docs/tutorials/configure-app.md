@@ -137,13 +137,22 @@ Download the latest version of Tweetledee; unzip and deploy on their server.
 Read [full documentation](http://chrissimpkins.github.io/tweetledee/) on the official website.
 
 You can also use `tweet-getter` script to perform that.
-make sure to have dependencies installed
+Make sure to have dependencies installed
 ```
 npm install
 ```
 and run the script
 ```
 node tweet-getter.js
+```
+You can schedule a task to run so that it can regularly collect tweets.
+For example, by using [crontab](http://askubuntu.com/questions/2368/how-do-i-set-up-a-cron-job)
+```sh
+crontab -e
+```
+then in the opened config file, register your task (*here will be executed every 5 minutes*)
+```
+*/5 * * * * node /path/to/tweet-getter.js
 ```
 
 
