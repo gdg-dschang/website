@@ -185,7 +185,7 @@
         "starts": "early-ticket-starts",
         "ends": "early-ticket-ends",
         "info": "early-ticket-info",
-        "soldOut": false
+        "soldOut": true
       },
       {
         "name": "lazy-ticket",
@@ -193,7 +193,7 @@
         "currency": "FCFA",
         "starts": "lazy-ticket-starts",
         "ends": "lazy-ticket-ends",
-        "soldOut": false
+        "soldOut": true
       }
     ]
   },
@@ -256,13 +256,13 @@
     "apiKey": "AIzaSyD1_39MTznWlGeCAco3EAFL8TFSAGJyJN0",
     "link": "https://www.facebook.com/lebspdedschang/info",
     "pointer": {
-      "latitude": 5.443933,
-      "longitude": 10.055006,
+      "latitude": 5.446540,
+      "longitude": 10.066765,
       "zoom": 15
     },
     "mapCenter": {
-      "latitude": 5.447008,
-      "longitude": 10.063386
+      "latitude": 5.4465453,
+      "longitude": 10.0645763
     },
     "images": [
       "/images/backgrounds/location_1.jpg",

@@ -7,7 +7,7 @@ Cameroon West Google Developers Groups are proud to announce the fifth annual GD
 * 3 parallel tracks dedicated to **Android**, **Web** & **Cloud** technologies.
 * **Expanded workshop area** where participants will have an opportunity to get some new practical skills from the best developers in Google-related technologies.
 
-So hurry up to book tickets to the Mbouoh Palace Hotel of Dschang as you’ll get a huge inspiration to create your cool projects after that day in the company of coders, hackers, geeks and just experts of our industry.
+So hurry up to book tickets to the Conference Hall of University of Dschang as you’ll get a huge inspiration to create your cool projects after that day in the company of coders, hackers, geeks and just experts of our industry.
 
 ### Festival organizers
 
