@@ -1,7 +1,7 @@
 {
     "1": {
         "id": 1,
-        "featured": true,
+        "featured": false,
         "name": "Foposse Tatang Leger",
         "title": "GDG Bandjoun Lead",
         "company": "GDG Bandjoun",
@@ -35,8 +35,8 @@
         "companyLogo": "/images/logos/gdg-dschang.svg",
         "country": "Bagangté, Cameroon",
         "photoUrl": "/images/people/kutnjem_romeo.jpg",
-        "shortBio": "Introduction to the frontend framework like angularjs, emberjs ...",
-        "bio": "Love myself I do. Not everything, but I love the good as well as the bad. I love my crazy lifestyle, and I love my hard discipline. I love that I have learned to trust people with my heart, even if it will get broken. I am proud of everything that I am and will become.",
+        "shortBio": "Event Agenda and keynote: check out our DevFest West 2016 event and get a close look at what's brought to you ...",
+        "bio": "I have a passion for computer sciences and new technologies; i'm also fan of Basketball. Dare to Dream-Realize is my way of thinking ...",
         "tags": [
             "AngularJS",
             "Polymer",
@@ -55,7 +55,7 @@
     },
     "3": {
         "id": 3,
-        "featured": true,
+        "featured": false,
         "name": "Fotsing Steve",
         "title": "Product Manager/Developer",
         "company": "GDG Dschang",
@@ -63,7 +63,7 @@
         "country": "Dschang, Cameroon",
         "photoUrl": "/images/people/fotsing_steve.jpg",
         "shortBio": "Learn Developping mobile app in android ...",
-        "bio": "I can't change the direction of the wind, but I can adjust my sails to always reach my destination. The best preparation for tomorrow is doing your best today.",     
+        "bio": "I can't change the direction of the wind, but I can adjust my sails to always reach my destination. The best preparation for tomorrow is doing your best today.",
         "tags": [
             "Mobile UX",
             "Codelab",
@@ -171,7 +171,7 @@
         "companyLogo": "/images/logos/gdg-dschang.svg",
         "country": "Dschang, Cameroon",
         "photoUrl": "/images/people/glorie.jpg",
-        "shortBio": "Google and Android 7.0 Nougat (N) ...",
+        "shortBio": "Google and Android 7.0 Nougat (N). Throughout my presentation, I will talk about the different versions of Android, their evolution as well as a practical demonstration ...",
         "bio": "Without you there would be no me. I am everything reflected in your eyes. I am everything approved by your smile. I am everything born of your guidance. I am me only because of you..",
         "tags": [
             "Android",
@@ -277,6 +277,171 @@
                 "name": "Google+",
                 "link": "https://plus.google.com/u/1/108055450970793024633"
             }
+        ]
+    },
+    "9": {
+        "id": 9,
+        "featured": true,
+        "name": "Ngochi Menu",
+        "title": "Developer, Opensourcer",
+        "company": "GDG Nkongsamba",
+        "companyLogo": "/images/logos/gdg-dschang.svg",
+        "country": "Nkongsamba, Cameroon",
+        "photoUrl": "/images/people/ngochi.jpg",
+        "shortBio": "Augmented reality a new sense of virtuality ...",
+        "bio": "\"In open source, we feel strongly that to really do something well, you have to get a lot of people involved\". Linus Torvalds",
+        "tags": [
+            "AI",
+            "Cloud",
+            "Linux"
+        ],
+        "badges": [
+
+        ],
+       "socials": [
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/Hubert_menu"
+            },
+            {
+                "icon": "gplus",
+                "name": "Google+",
+                "link": "https://plus.google.com/u/0/+MenuHubert"
+            }
+        ]
+    },
+    "10": {
+        "id": 10,
+        "featured": true,
+        "name": "Tegoum Jean Honore",
+        "title": "Developer",
+        "company": "GDG Nkongsamba",
+        "companyLogo": "/images/logos/gdg-dschang.svg",
+        "country": "Nkongsamba, Cameroon",
+        "photoUrl": "/images/people/tegoum.jpg",
+        "shortBio": "Augmented reality a new sense of virtuality ...",
+        "bio": "\"Believe that life is worth living and your belief will help create the fact\". William James",
+        "tags": [
+            "AI",
+            "Cloud"
+        ],
+        "badges": [
+
+        ],
+       "socials": [
+            {
+                "icon": "gplus",
+                "name": "Google+",
+                "link": "https://plus.google.com/u/0/103267994790611776091"
+            }
+        ]
+    },
+    "11": {
+        "id": 11,
+        "featured": true,
+        "name": "Feuti Joel",
+        "title": "Network & security Techncien",
+        "company": "GDG Dschang",
+        "companyLogo": "/images/logos/gdg-dschang.svg",
+        "country": "Dschang, Cameroon",
+        "photoUrl": "/images/people/joelovichh.jpg",
+        "shortBio": "Web and trust, see how the web today with more and more service offer to user cause security problem ...",
+        "bio": "\"True individual freedom cannot exist without economic security and independence. People who are hungry and out of a job are the stuff of which dictatorships are made\". Franklin D. Roosevelt",
+        "tags": [
+            "web",
+            "Security",
+            "Cloud"
+        ],
+        "badges": [
+
+        ],
+       "socials": [
+           {
+             "icon": "gplus",
+             "link": "https://plus.google.com/u/0/100230172103124460973",
+             "name": "Google+"
+           },
+           {
+             "icon": "facebook",
+             "link": "https://www.facebook.com/joelovichh",
+             "name": "Facebook"
+           },
+           {
+             "icon": "twitter",
+             "link": "https://twitter.com/joelovich3",
+             "name": "Twitter"
+           }
+        ]
+    },
+    "12": {
+        "id": 12,
+        "featured": true,
+        "name": "Kapu Njikam Abdel R.",
+        "title": "Network & security Techncien",
+        "company": "GDG Foumban",
+        "companyLogo": "/images/logos/gdg-dschang.svg",
+        "country": "Foumban, Cameroon",
+        "photoUrl": "/images/people/abdellah_ramadan.jpg",
+        "shortBio": "PWA The New Approach for the Web: a talk on the PWA for a new way of engaging users to use web apps like native apps and keep them stick to what we've built. ...",
+        "bio": "\"In order to carry a positive action we must develop here a positive vision\". Dalai Lama",
+        "tags": [
+            "web",
+            "Codelab",
+            "Cloud"
+        ],
+        "badges": [
+
+        ],
+       "socials": [
+         {
+           "icon": "gplus",
+           "link": "https://plus.google.com/u/1/+AbdellahRamadan",
+           "name": "Google+"
+         },
+         {
+           "icon": "facebook",
+           "link": "https://www.facebook.com/abdellah.ramadan1",
+           "name": "Facebook"
+         }
+        ]
+    },
+    "13": {
+        "id": 13,
+        "featured": true,
+        "name": "Lyonnel Dzotang",
+        "title": "Senior Developer",
+        "company": "GDG Dschang",
+        "companyLogo": "/images/logos/gdg-dschang.svg",
+        "country": "Dschang, Cameroon",
+        "photoUrl": "/images/people/ledm.jpg",
+        "shortBio": "Android, Firebase, Cloud Message: Utilisation de Firebase pour une diffusion de messages/notifications vers les clients connectés. ...",
+        "bio": "\"Don't aim for success if you want it; just do what you love and believe in, and it will come naturally\". David Frost",
+        "tags": [
+            "web",
+            "Android",
+            "Codelab",
+            "Cloud"
+        ],
+        "badges": [
+
+        ],
+       "socials": [
+         {
+           "icon": "gplus",
+           "link": "https://plus.google.com/u/0/103865250185556267872",
+           "name": "Google+"
+         },
+         {
+           "icon": "twitter",
+           "link": "https://twitter.com/Lyonnel_DM",
+           "name": "Twitter"
+         },
+         {
+           "icon": "facebook",
+           "link": "https://www.facebook.com/lunikDM",
+           "name": "Facebook"
+         }
         ]
     }
 }
