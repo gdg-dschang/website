@@ -1,14 +1,18 @@
 {
   "140": {
     "id": 140,
-    "title": "TBD",
-    "description": "TBD",
-    "language": "English"
+    "title": "Special Guess Pitch",
+    "description": "Camtel communication space",
+    "language": "English",
+    "image": "/images/backgrounds/sponsor.jpg"
   },
   "139": {
     "id": 139,
     "title": "Keynote - Welcome to DevFest West 2016",
-    "description": "",
+    "description": "Event Agenda and keynote: check out our DevFest West 2016 event and get a close look at what's brought to you.",
+    "speakers": [
+        2
+    ],
     "language": "English"
   },
   "138": {
@@ -50,8 +54,8 @@
   },
   "132": {
     "id": 132,
-    "title": "Registration & morning Coffee",
-    "description": "Get your badge, coffee, enjoy talking with tech edicts around",
+    "title": "Registration",
+    "description": "Get your badge, enjoy talking with tech edicts around",
     "image": "/images/backgrounds/registration.jpg"
   },
   "131": {
@@ -62,16 +66,9 @@
   },
   "130": {
     "id": 130,
-    "title": "Designing an Android Wear Application",
-    "description": "Wearable devices are one of the most popular things nowadays. Specially, after the Apple Watch, we finally get the whole picture of the entire list of products and their features. Now, we can talk about how we can design a user experience for this type of devices.\nEvery platform has it's own design principles and approaches. But, in the core, they all need to follow same core rules. So, how we combine this core requirements with Google's Material Design and use them on an Android Wear device? Let's learn!",
-    "speakers": [
-      26
-    ],
-    "language": "English",
-    "complexity": "Intermediate",
-    "tags": [
-      "Android"
-    ]
+    "title": "Empty Hall - Parallel tracks",
+    "description": "Just visit parallel tracks that may interest you in associated hall !",
+    "image": "/images/backgrounds/closing.jpg"
   },
   "129": {
     "id": 129,
@@ -307,10 +304,10 @@
   },
   "112": {
     "id": 112,
-    "title": "Building web apps in 2016",
-    "description": "Last year brought a lot of new capabilities to browsers, fundamentally changing the way we will build web apps in 2016. 60FPS, push messages, offline support and background sync became a reality marking the birth of Progressive Web Apps.",
+    "title": "Web and trust",
+    "description": "The web today with more and more service offer to user cause the problem of security and many other problem and people are lost in that ecosystem.",
     "speakers": [
-      10
+      11
     ],
     "language": "English",
     "complexity": "Intermediate",
@@ -320,12 +317,12 @@
   },
   "111": {
     "id": 111,
-    "title": "Building modular architecture apps with Dagger 2",
-    "description": "It's beauty, it's handy, it's fast, it's easy - all about Dagger 2",
+    "title": "Augmented reality",
+    "description": "Augmented reality a new sense of virtuality: a live direct or indirect view of a physical, real-world environment whose elements are augmented (or supplemented) by computer-generated sensory input such as sound, video, graphics or GPS data.",
     "speakers": [
-      9
+      9, 10
     ],
-    "language": "English",
+    "language": "French",
     "complexity": "Intermediate",
     "tags": [
       "Android"
@@ -334,31 +331,31 @@
   },
   "110": {
     "id": 110,
-    "title": "The ultimate guide to MVP pattern on Android",
-    "description": "There's a lot of hype around MVP pattern in the Android world. Now it's time for concretes. During his presentation Mateusz will tell you how IG divided responsibilities between pattern's different components, how they tied Presenters' and Views' lifecycles and what they did to make it all testable. If you'd love to make your Fragments' and Activities' code simpler and increase your coverage, but you're confused how to glue it all together - don't miss Mateusz's talk.",
+    "title": "PWA The New Approach for the Web",
+    "description": "A talk on the PWA which is a new way of engaging users to use web apps like native apps and keep them stick to what we've built. I'll start by comparing the web of yesteryears and the web of today. I'll follow by introducing PWA, its benefit, while apps now should possess its features and bring out some examples of companies who have tried this new approach and finds it very helpful. Then I'll end by encourage the audience to learn this and try by pointing them to the codelabs of devsite or any other means. Don't miss this talk.",
     "speakers": [
-      8
+      12
     ],
-    "language": "English",
+    "language": "Frencch",
     "complexity": "Intermediate",
     "tags": [
-      "Android"
+      "Web"
     ],
     "presentation":"https://speakerdeck.com/gdglviv/mateusz-herych-the-ultimate-guide-to-mvp-pattern-on-android"
   },
   "109": {
     "id": 109,
-    "title": "How much money Firebase can save you",
-    "description": "TBD",
+    "title": "Android, Firebase, Cloud Message",
+    "description": "I would like to talk about architecture of our Settle Up app. It's all based on new Firebase announced on I/O with the help of modern frameworks like Rx, Kotlin and MVP. Discover how much money Firebase can save you, how you can easily deploy service like a chat application on the cloud",
     "speakers": [
-      7
+      13
     ],
-    "language": "English",
-    "complexity": "Beginner",
+    "language": "French",
+    "complexity": "Intermediate",
     "tags": [
       "Cloud"
     ],
-    "presentation":"https://speakerdeck.com/gdglviv/jozef-vodicka-how-much-money-firebase-can-save-you"
+    "presentation":"#"
   },
   "108": {
     "id": 108,
@@ -405,8 +402,8 @@
   },
   "105": {
     "id": 105,
-    "title": "Learn how to use some Api of Google to develop web app and mobile app",
-    "description": "Google APIs is a set of application programming interfaces (APIs) developed by Google which allow communication with Google Services and their integration to other services. Examples of these include Search, Gmail, Translate or Google Maps. Third-party apps can use these APIs to take advantage of or extend the functionality of the existing services.",
+    "title": "Leveraging Git By developers",
+    "description": "Making use of git for better workflow. a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.",
     "speakers": [
       5
     ],

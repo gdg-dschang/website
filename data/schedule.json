@@ -5,9 +5,12 @@
         "tracks": [
             {
                 "title": "Conference hall"
-            }, 
+            },
             {
-                "title": "Workshops hall"
+                "title": "Workshops1 hall"
+            },
+            {
+                "title": "Workshops2 hall"
             }
         ],
         "timeslots": [
@@ -17,77 +20,70 @@
                 "sessions": [
                     [132]
                 ]
-            }, 
+            },
             {
-                "startTime": "08:45",
+                "startTime": "08:30",
                 "endTime": "09:00",
                 "sessions": [
                     [139]
                 ]
-            }, 
+            },
             {
                 "startTime": "09:00",
-                "endTime": "09:45",
+                "endTime": "09:10",
                 "sessions": [
-                    [104]
+                    [135]
                 ]
-            }, 
+            },
             {
-                "startTime": "09:50",
-                "endTime": "10:50",
+                "startTime": "09:10",
+                "endTime": "09:25",
                 "sessions": [
-                    [102]
+                    [140]
                 ]
-            }, 
+            },
             {
-                "startTime": "10:55",
-                "endTime": "11:40",
+                "startTime": "09:25",
+                "endTime": "10:55",
                 "sessions": [
-                    [106]
+                    [105], [106]
                 ]
-            },  
+            },
             {
-                "startTime": "11:45",
-                "endTime": "12:45",
+                "startTime": "11:00",
+                "endTime": "12:30",
                 "sessions": [
-                    [138]
+                    [104], [111]
                 ]
-            }, 
+            },
             {
-                "startTime": "12:50",
-                "endTime": "13:35",
+                "startTime": "12:30",
+                "endTime": "13:00",
                 "sessions": [
                     [134]
                 ]
-            }, 
+            },
             {
-                "startTime": "13:40",
-                "endTime": "14:25",
+                "startTime": "13:00",
+                "endTime": "13:30",
                 "sessions": [
-                    [103]
+                    [138]
                 ]
             },
             {
-                "startTime": "14:30",
-                "endTime": "15:15",
+                "startTime": "13:35",
+                "endTime": "15:35",
                 "sessions": [
-                    [101]
+                    [109], [110]
                 ]
             },
             {
-                "startTime": "15:20",
-                "endTime": "16:20",
-                "sessions": [
-                    [107]
-                ]
-            }, 
-            {
-                "startTime": "16:25",
+                "startTime": "15:40",
                 "endTime": "17:10",
                 "sessions": [
-                    [105]
+                    [107], [112]
                 ]
-            }, 
+            },
             {
                 "startTime": "17:15",
                 "endTime": "17:30",
@@ -103,5 +99,5 @@
                 ]
             }
         ]
-    } 
+    }
 ]
