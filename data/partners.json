@@ -4,13 +4,18 @@
     "logos": [
       {
         "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
+        "url": "https://www.google.com/intl/en/about/",
         "logoUrl": "../images/logos/google.svg"
       },
       {
         "name": "Inwte",
         "url": "http://inwte.com",
         "logoUrl": "../images/logos/inwte-green.png"
+      },
+      {
+        "name": "Camtel",
+        "url": "http://www.camtel.cm/",
+        "logoUrl": "../images/logos/camtel.png"
       },
       {
         "name": "Intersoft Corporation",
