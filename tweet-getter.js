@@ -1,5 +1,5 @@
 /* This script is for automatically get tweets considering a given hashtag.
- * 
+ *
  * --github: well done @tnga, @mpoehler
 */
 
@@ -17,24 +17,24 @@ var tw = new Twit({
  * fetch tweets containing a given keyword and save result in a json file.
  * @param [string] keyword : a given word or sentence
  * @param [Object] queryOpts : options for query behavior.
- *          -[number] count : tweet limit to fetch 
- *          -[string] since : start date 
- *          -[string] until : end date 
- *          -* more on https://dev.twitter.com/rest/reference/get/search/tweets * 
+ *          -[number] count : tweet limit to fetch
+ *          -[string] since : start date
+ *          -[string] until : end date
+ *          -* more on https://dev.twitter.com/rest/reference/get/search/tweets *
  *
  * @NOTE: A cron job associated for interval automation.
  */
 function fetchTweet (keyword, queryOpts) {
     if (!(queryOpts instanceof Object)) queryOpts = {};
-    
+
     keyword ? queryOpts.q = keyword : '#GDGDschang';
     if (!queryOpts.count) queryOpts.count = 10;
     if (queryOpts.since) queryOpts.since = '2014-01-01';
-   
+
     tw.get('search/tweets', queryOpts, function(err, data, response) {
         if (err) return console.log(err);
         var fs = require('fs');
-        fs.writeFile("data/tweets.json", JSON.stringify(data.statuses), function(err) {
+        fs.writeFile(__dirname +"/data/tweets.json", JSON.stringify(data.statuses), function(err) {
             if(err) {
                 return console.log(err);
             }
