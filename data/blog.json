@@ -34,5 +34,14 @@
     "secondaryColor": "#3F51B5",
     "image": "/images/posts/dfw16-c4p-is-open.jpg",
     "brief": "GDG DevFest 2016 announced! The 5th edition of the biggest conference about Google technologies in west cameroon will take on **November 26** in a city of Dschang. That means that it is time to open [call for talk submissions](https://plus.google.com/events/cjchmpkpooi2mico16mh5ora03k)."
+  },
+  {
+    "id": "mycleanor",
+    "title": "New application for dry cleaning Services",
+    "posted": "2016-11-26",
+    "primaryColor": "#C2185B",
+    "secondaryColor": "#E91E63",
+    "image": "/images/posts/mycleanor.jpg",
+    "brief": "MyCleanor est l'application de pressing premium dédiée aux demandes de nettoyage à sec de nos membres, le ramassage par un de nos Supermen, le nettoyage et la livraison à domicile ou au lieu de travail."
   }
 ]
