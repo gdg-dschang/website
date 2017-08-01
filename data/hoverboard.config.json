@@ -7,9 +7,9 @@
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
-          "title": "GDG DevFest Ukraine 2016",
-          "youtubeId": "DfMnJAzOFng",
-          "text": "See how it was in 2015"
+          "title": "Google I/O 2017",
+          "youtubeId": "qmeAAp9rSVY",
+          "text": "See how it was in 2017"
         },
         "hideLogo": false,
         "minHeight": "360px"
@@ -167,7 +167,7 @@
     ]
   },
   "tickets": {
-    "url": "https://billetsdevfestwest.eventbrite.fr/",
+    "url": "http://meetu.ps/c/3rcyz/BSnVt/f",
     "elements": [
       {
         "name": "student-ticket",
@@ -270,9 +270,9 @@
       "/images/backgrounds/location_3.jpg"
     ]
   },
-  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLwMARoRtO2co6fOryZYl7C9DqrFRBaqjI",
+  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIKC8eODk_RNCWv3fBcLvMMy",
   "callToAction": {
     "videoTitle": "action-title",
-    "videoId": "8R3qJ1wWjzY"
+    "videoId": "Y2VF8tmLFHw"
   }
 }
