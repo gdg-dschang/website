@@ -43,4 +43,4 @@ function fetchTweet (keyword, queryOpts) {
     });
 }
 
-fetchTweet('#DevFestWest16', {since:'2015-01-01'});
+fetchTweet('#IO17Dschang', {since:'2015-01-01'});
