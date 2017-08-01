@@ -30,6 +30,121 @@
         "title": "GDG Dschang Lead"
       },
       {
+        "name": "Fotsing Steve",
+        "photoUrl": "/images/people/fotsing_steve.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/u/1/106301468641653407908",
+            "name": "Google+"
+          },
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/steve.tomfeu",
+            "name": "Facebook"
+          }
+        ],
+        "title": "Gdg Dschang Organizer"
+      },
+      {
+        "name": "Tindo N. Arsel",
+        "photoUrl": "/images/people/tnga.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/u/1/+Tindoarsel_tnga",
+            "name": "Google+"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/tng_arsel",
+            "name": "Twitter"
+          },
+          {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/tngarsel",
+            "name": "Linkedin"
+          },
+          {
+            "icon": "github",
+            "link": "https://github.com/tnga",
+            "name": "Github"
+          }
+        ],
+        "title": "Gdg Dschang Organizer"
+      },
+      {
+        "name": "Tabueu Fotso Cabrel L.",
+        "photoUrl": "/images/people/tafoca.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/u/1/108055450970793024633",
+            "name": "Google+"
+          },
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/cabrel.fotso.5",
+            "name": "Facebook"
+          },
+          {
+            "icon": "github",
+            "link": "https://github.com/tafoca",
+            "name": "Github"
+          }
+        ],
+        "title": "Gdg Dschang Organizer"
+      },
+      {
+        "name": "Lyonnel Dzotang",
+        "photoUrl": "/images/people/ledm.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/u/0/103865250185556267872",
+            "name": "Google+"
+          },
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/lunikDM",
+            "name": "Facebook"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/Lyonnel_DM",
+            "name": "Twitter"
+          }
+        ],
+        "title": "Gdg Dschang Organizer"
+      },
+      {
+        "name": "Feuti Joel",
+        "photoUrl": "/images/people/joelovichh.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/u/0/100230172103124460973",
+            "name": "Google+"
+          },
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/joelovichh",
+            "name": "Facebook"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/joelovich3",
+            "name": "Twitter"
+          }
+        ],
+        "title": "Gdg Dschang Organizer"
+      }
+    ]
+  },
+  {
+    "title": "Group Committee",
+    "members": [
+       {
         "name": "Donfack Ange",
         "photoUrl": "/images/people/ange_donfack.jpg",
         "socials": [
@@ -63,24 +178,7 @@
         ],
         "title": "GDG Bandjoun Lead"
       },
-      {
-        "name": "Fotsing Steve",
-        "photoUrl": "/images/people/fotsing_steve.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/u/1/106301468641653407908",
-            "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/steve.tomfeu",
-            "name": "Facebook"
-          }
-        ],
-        "title": "Gdg Dschang Organizer"
-      },
-      {
+       {
         "name": "Kapu Njikam Abdel R.",
         "photoUrl": "/images/people/abdellah_ramadan.jpg",
         "socials": [
@@ -169,82 +267,6 @@
           }
         ],
         "title": "Gdg Dschang Technical Manager"
-      }
-    ]
-  },
-  {
-    "title": "Program Committee",
-    "members": [
-      {
-        "name": "Tindo N. Arsel",
-        "photoUrl": "/images/people/tnga.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/u/1/+Tindoarsel_tnga",
-            "name": "Google+"
-          },
-          {
-            "icon": "twitter",
-            "link": "https://twitter.com/tng_arsel",
-            "name": "Twitter"
-          },
-          {
-            "icon": "linkedin",
-            "link": "https://www.linkedin.com/in/tngarsel",
-            "name": "Linkedin"
-          },
-          {
-            "icon": "github",
-            "link": "https://github.com/tnga",
-            "name": "Github"
-          }
-        ],
-        "title": "Gdg Dschang Organizer"
-      },
-      {
-        "name": "Tabueu Fotso Cabrel L.",
-        "photoUrl": "/images/people/tafoca.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/u/1/108055450970793024633",
-            "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/cabrel.fotso.5",
-            "name": "Facebook"
-          },
-          {
-            "icon": "github",
-            "link": "https://github.com/tafoca",
-            "name": "Github"
-          }
-        ],
-        "title": "Gdg Dschang Organizer"
-      },
-      {
-        "name": "Feuti Joel",
-        "photoUrl": "/images/people/joelovichh.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/u/0/100230172103124460973",
-            "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/joelovichh",
-            "name": "Facebook"
-          },
-          {
-            "icon": "twitter",
-            "link": "https://twitter.com/joelovich3",
-            "name": "Twitter"
-          }
-        ],
-        "title": "Gdg Dschang Organizer"
       },
       {
         "name": "Taboula Fopa jems",
