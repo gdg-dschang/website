@@ -29,7 +29,7 @@ function fetchTweet (keyword, queryOpts) {
 
     keyword ? queryOpts.q = keyword : '#GDGDschang';
     if (!queryOpts.count) queryOpts.count = 10;
-    if (queryOpts.since) queryOpts.since = '2014-01-01';
+    if (!queryOpts.since) queryOpts.since = '2014-01-01';
 
     tw.get('search/tweets', queryOpts, function(err, data, response) {
         if (err) return console.log(err);
