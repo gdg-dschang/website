@@ -12,6 +12,12 @@
     "thumbnail": "/images/sessions/2.png"
   },
   {
+    "youtubeId": "K5-MHnxNBAo",
+    "title": "GDG DSCHANG INTERVIEW",
+    "speakers": "",
+    "thumbnail": "/images/sessions/1.png"
+  },
+  {
     "youtubeId": "8EQxR1JVmOo",
     "title": "Polymer 1.0: Production ready",
     "speakers": "",
@@ -34,11 +40,5 @@
     "title": "gdg Day Cameroon 2014(WebApp) Chat",
     "speakers": "",
     "thumbnail": "/images/sessions/5.jpg"
-  },
-  {
-    "youtubeId": "K5-MHnxNBAo",
-    "title": "GDG DSCHANG INTERVIEW",
-    "speakers": "",
-    "thumbnail": "/images/sessions/1.png"
   }
 ]
