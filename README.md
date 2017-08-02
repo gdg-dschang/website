@@ -1,7 +1,7 @@
 # GDG Dschang official website
 > Be a Google Developers Group. Be a Hero!
 
-![preview-web](images/gdgdschang16-banner.jpg)
+![preview-web](images/gdgdschang17-banner.jpg)
 
 ## Project Hoverboard  
 
