@@ -16,6 +16,11 @@
         "name": "Camtel",
         "url": "http://www.camtel.cm/",
         "logoUrl": "../images/logos/camtel.png"
+      },
+      {
+        "name": "Weloobe",
+        "url": "http://weloobe.com",
+        "logoUrl": "../images/logos/weloobe-logoo.gif"
       }
     ]
   },
