@@ -4,7 +4,7 @@
     "logos": [
       {
         "name": "Google",
-        "url": "https://www.google.com/intl/en/about/",
+        "url": "https://www.google.com/intl/en/about",
         "logoUrl": "../images/logos/google.svg"
       },
       {
@@ -14,7 +14,7 @@
       },
       {
         "name": "Camtel",
-        "url": "http://www.camtel.cm/",
+        "url": "http://www.camtel.cm",
         "logoUrl": "../images/logos/camtel.png"
       },
       {
