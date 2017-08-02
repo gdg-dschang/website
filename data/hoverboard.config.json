@@ -112,6 +112,11 @@
     "title": "old-events",
     "links": [
       {
+        "text": "df-16",
+        "url": "https://photos.google.com/share/AF1QipMZBaAhZo6LSocwJ5q2XYFQ2tkU_VHUex81gcpV9YNI70Rnj__Eh4A0lLv_vEA5cg?key=NUdqYlBXdURGaW9qbE9HakdqZERoZHVCNEZpUHZB",
+        "newTab": true
+      },
+      {
         "text": "io-16",
         "url": "https://plus.google.com/photos/101390700541925663340/album/6300932825812521857?authkey=CNabw9Gpzq3zJg",
         "newTab": true
@@ -201,7 +206,7 @@
   "teamPageText": "team-page-text",
   "statistics": [
     {
-      "counter": 300,
+      "counter": 30,
       "caption": "attendees"
     },
     {
@@ -209,11 +214,11 @@
       "caption": "days"
     },
     {
-      "counter": 15,
+      "counter": 7,
       "caption": "sessions"
     },
     {
-      "counter": 3,
+      "counter": 1,
       "caption": "tracks"
     }
   ],
@@ -242,7 +247,7 @@
   ],
    "tweetsSource": "/data/tweets.json",
   "gallery": {
-    "albumUrl": "https://plus.google.com/events/gallery/cjrqia627pcm5mqrs6smha5s950?pid=6306059263334398498&oid=110655210899115667585&sort=6",
+    "albumUrl": "https://photos.google.com/share/AF1QipMZBaAhZo6LSocwJ5q2XYFQ2tkU_VHUex81gcpV9YNI70Rnj__Eh4A0lLv_vEA5cg?key=NUdqYlBXdURGaW9qbE9HakdqZERoZHVCNEZpUHZB",
     "photos": {
       "big": "/images/backgrounds/2016_1.JPG",
       "small": [
