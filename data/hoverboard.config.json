@@ -182,7 +182,7 @@
     ]
   },
   "tickets": {
-    "url": "http://meetu.ps/c/3rcyz/BSnVt/f",
+    "url": "https://www.meetup.com/fr-FR/Gdg-Dschang/events/244274434/",
     "elements": [
       {
         "name": "student-ticket",
@@ -216,15 +216,15 @@
   "teamPageText": "team-page-text",
   "statistics": [
     {
-      "counter": 30,
+      "counter": 200,
       "caption": "attendees"
     },
     {
-      "counter": 1,
+      "counter": 2,
       "caption": "days"
     },
     {
-      "counter": 7,
+      "counter": 10,
       "caption": "sessions"
     },
     {
@@ -232,7 +232,7 @@
       "caption": "tracks"
     }
   ],
-  "hashtag": "IO17Dschang",
+  "hashtag": "DEVFEST17WEST",
   "social": [
     {
       "name": "gplus",
@@ -255,7 +255,7 @@
       "url": "https://github.com/gdg-dschang"
     }
   ],
-   "tweetsSource": "/data/tweets.json",
+  "tweetsSource": "/data/tweets.json",
   "gallery": {
     "albumUrl": "https://photos.google.com/share/AF1QipMZBaAhZo6LSocwJ5q2XYFQ2tkU_VHUex81gcpV9YNI70Rnj__Eh4A0lLv_vEA5cg?key=NUdqYlBXdURGaW9qbE9HakdqZERoZHVCNEZpUHZB",
     "photos": {
@@ -270,13 +270,13 @@
     "apiKey": "AIzaSyD1_39MTznWlGeCAco3EAFL8TFSAGJyJN0",
     "link": "https://www.facebook.com/search/top/?q=pmuc%20dschang",
     "pointer": {
-      "latitude": 5.445901,
-      "longitude": 10.0566403,
+      "latitude": 5.3552383,
+      "longitude": 10.4238203,
       "zoom": 15
     },
     "mapCenter": {
-      "latitude": 5.4465453,
-      "longitude": 10.0645763
+      "latitude": 5.3557845,
+      "longitude": 10.4267165
     },
     "images": [
       "/images/backgrounds/location_1.jpg",
