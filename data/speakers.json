@@ -1,92 +1,6 @@
 {
-    "1": {
+     "1": {
         "id": 1,
-        "featured": false,
-        "name": "Foposse Tatang Leger",
-        "title": "GDG Bandjoun Lead",
-        "company": "GDG Bandjoun",
-        "companyLogo": "/images/logos/gdg-dschang.svg",
-        "country": "Bandjoun, Cameroon",
-        "photoUrl": "/images/people/leger_foposse.jpg",
-        "shortBio": "Introduction to Firebase ...",
-        "bio": "I am determined to be cheerful and happy in whatever situation I may find myself. For I have learned that the greater part of our misery or unhappiness is determined not by our circumstance but by our disposition. I like to reinvent myself — it’s part of my job.",
-        "tags": [
-            "Cloud",
-            "Compute Engine",
-            "Firebase"
-        ],
-        "badges": [
-
-        ],
-        "socials": [
-            {
-                "icon": "gplus",
-                "link": "https://plus.google.com/u/1/+legerfoposse",
-                "name": "Google+"
-            }
-        ]
-    },
-    "2": {
-        "id": 2,
-        "featured": true,
-        "name": "Kutnjem Mouchikpou Romeo",
-        "title": "GDG Bagangté Lead",
-        "company": "GDG Bagangté",
-        "companyLogo": "/images/logos/gdg-dschang.svg",
-        "country": "Bagangté, Cameroon",
-        "photoUrl": "/images/people/kutnjem_romeo.jpg",
-        "shortBio": "Event Agenda and keynote: check out our DevFest West 2016 event and get a close look at what's brought to you ...",
-        "bio": "Love myself I do. Not everything, but I love the good as well as the bad. I love my crazy lifestyle, and I love my hard discipline. I love that I have learned to trust people with my heart, even if it will get broken. I am proud of everything that I am and will become.",
-        "tags": [
-            "Keynote",
-            "Agenda",
-            "Mobile",
-            "Framework"
-        ],
-        "badges": [
-        ],
-        "socials": [
-            {
-                "icon": "gplus",
-                "link": "https://plus.google.com/u/1/109743108350655662418",
-                "name": "Google+"
-            }
-        ]
-    },
-    "3": {
-        "id": 3,
-        "featured": false,
-        "name": "Fotsing Steve",
-        "title": "Product Manager/Developer",
-        "company": "GDG Dschang",
-        "companyLogo": "/images/logos/gdg-dschang.svg",
-        "country": "Dschang, Cameroon",
-        "photoUrl": "/images/people/fotsing_steve.jpg",
-        "shortBio": "Learn Developping mobile app in android ...",
-        "bio": "I can't change the direction of the wind, but I can adjust my sails to always reach my destination. The best preparation for tomorrow is doing your best today.",
-        "tags": [
-            "Mobile UX",
-            "Codelab",
-            "Android"
-        ],
-        "badges": [
-
-        ],
-       "socials": [
-            {
-                "icon": "facebook",
-                "name": "Facebook",
-                "link": "https://www.facebook.com/steve.tomfeu"
-            },
-            {
-                "icon": "gplus",
-                "name": "Google+",
-                "link": "https://plus.google.com/u/1/106301468641653407908"
-            }
-        ]
-    },
-     "4": {
-        "id": 4,
         "featured": true,
         "name": "Kemche Ghomsi Adrien A.",
         "title": "GDG Dschang Lead, Software Engineer",
@@ -101,7 +15,7 @@
             "Performance",
             "Git",
             "Codelab",
-            "Android"
+            "openshift"
         ],
         "badges": [
 
@@ -129,19 +43,19 @@
             }
         ]
     },
-    "5": {
-        "id": 5,
+    "2": {
+        "id": 2,
         "featured": true,
-        "name": "Shey Tanyu Kingsly",
-        "title": "GDG Nkongsamba Lead, Opensource Developer",
-        "company": "GDG Nkongsamba",
+        "name": "Fokom Talom",
+        "title": "GDG Bandjoun, Software Engineer",
+        "company": "GDG Bandjoun",
         "companyLogo": "/images/logos/gdg-dschang.svg",
-        "country": "Nkongsamba,Cameroon",
-        "photoUrl": "/images/people/sheytanyu.jpg",
-        "shortBio": "Leveraging Git By developers: Making use of git for better workflow ...",
-        "bio": "Love's problem solving, leveraging the power of Computer Science. Passionate about algorithm, computer programming and the use of Tech To make the world a better place. Excellence is All I chase!",
+        "country": "Bandjoun, Cameroon",
+        "photoUrl": "/images/people/fokom_talom.jpg",
+        "shortBio": "we feel strongly that to really do something well, you have to get a lot of people involved",
+        "bio": "\"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it\". Steve Jobs",
         "tags": [
-            "Android",
+            "AppEngine",
             "Cloud",
             "Web",
             "API"
@@ -151,28 +65,23 @@
         ],
         "socials": [
             {
-                "icon": "twitter",
-                "link": "https://twitter.com/kstanyu",
-                "name": "Twitter"
-            },
-            {
-                "icon": "facebook",
-                "link": "https://www.facebook.com/sheytanyu",
-                "name": "Facebook"
+                "icon": "gplus",
+                "link": "https://plus.google.com/u/0/+fokomtalomgaetan1995",
+                "name": "Google+"
             }
         ]
     },
-   "6": {
-        "id": 6,
+   "3": {
+        "id": 3,
         "featured": true,
-        "name": "Metsa Glorie",
-        "title": "Junior Developer, Researcher Student",
-        "company": "GDG Dschang",
+        "name": "Kongne Fah",
+        "title": "GDG Bandjoun member",
+        "company": "GDG Bandjoun",
         "companyLogo": "/images/logos/gdg-dschang.svg",
-        "country": "Dschang, Cameroon",
-        "photoUrl": "/images/people/glorie.jpg",
-        "shortBio": "Google and Android 7.0 Nougat (N). Throughout my presentation, I will talk about the different versions of Android, their evolution as well as a practical demonstration ...",
-        "bio": "I have a passion for computer sciences and new technologies; i'm also fan of Basketball. Dare to Dream-Realize is my way of thinking ...",
+        "country": "Bandjoun, Cameroon",
+        "photoUrl": "/images/people/kongne_fah.jpg",
+        "shortBio": "Throughout my presentation, I will talk about the cloud perpestives as well as a practical demonstration ...",
+        "bio": "I have a passion for computer sciences and new technologies. Dare to Dream-Realize is my way of thinking ...",
         "tags": [
             "Android",
             "Cloud"
@@ -182,23 +91,13 @@
         "socials": [
             {
                 "icon": "gplus",
-                "link": "https://plus.google.com/100237033631813295072",
+                "link": "https://plus.google.com/u/0/+erickkongnefah1",
                 "name": "Google+"
-            },
-            {
-                "icon": "facebook",
-                "link": "https://www.facebook.com/metsaglorie",
-                "name": "Facebook"
-            },
-            {
-                "icon": "linkedin",
-                "link": "https://cm.linkedin.com/in/glorie-metsa-726048113",
-                "name": "Linkedin"
             }
         ]
     },
-    "7": {
-        "id": 7,
+    "4": {
+        "id": 4,
         "featured": true,
         "name": "Tindo N. Arsel",
         "title": "Software Engineer, Self-taught Researcher",
@@ -240,48 +139,130 @@
             }
         ]
     },
-    "8": {
-        "id": 8,
+    "5": {
+        "id": 5,
         "featured": true,
-        "name": "Tabueu Fotso Cabrel L.",
-        "title": "Senior Developer, Researcher",
-        "company": "weloobe",
-        "companyLogo": "/images/logos//weloobe-logoo.gif",
-        "country": "Dschang, Cameroon",
-        "photoUrl": "/images/people/tafoca.jpg",
-        "shortBio": "Introduction to Machine Learning and TensorFlow: \"gives computers the ability to learn without being explicitly programmed\" (Arthur Samuel, 1959). ...",
+        "name": "Youmsi Romuald",
+        "title": "GDG Bandjoun member",
+        "company": "GDG Bandjoun",
+        "companyLogo": "/images/logos/gdg-dschang.svg",
+        "country": "Bandjoun, Cameroon",
+        "photoUrl": "/images/people/youmsi_romuald.jpg",
+        "shortBio": "we feel strongly that to really do something well, you have to get a lot of people involved",
         "bio": "\"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it\". Steve Jobs",
         "tags": [
-            "AI",
-            "Cloud",
+            "Angular",
+            "Angular2",
             "Libraries",
-            "TensorFlow",
-            "Linux"
+            "Framework",
+            "Web"
         ],
         "badges": [
 
         ],
        "socials": [
             {
-                "icon": "facebook",
-                "name": "Facebook",
-                "link": "https://www.facebook.com/cabrel.fotso.5"
-            },
-            {
-                "icon": "github",
-                "link": "https://github.com/tafoca",
-                "name": "Github"
-            },
+                "icon": "gplus",
+                "name": "Google+",
+                "link": "https://plus.google.com/u/0/+YOUMSIMOUMBEROMUALDJUNIOR"
+            }
+        ]
+    },
+    "6": {
+        "id": 6,
+        "featured": true,
+        "name": "Dongmo Kenfack",
+        "title": "GDG Bandjoun member",
+        "company": "GDG Bandjoun",
+        "companyLogo": "/images/logos/gdg-dschang.svg",
+        "country": "Bandjoun, Cameroon",
+        "photoUrl": "/images/people/dongmo_kenfack.jpg",
+        "shortBio": "we feel strongly that to really do something well, you have to get a lot of people involved",
+        "bio": "\"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it\". Steve Jobs",
+        "tags": [
+            "Github",
+            "Performance",
+            "Git",
+            "Codelab"
+        ],
+        "badges": [
+
+        ],
+       "socials": [
             {
                 "icon": "gplus",
                 "name": "Google+",
-                "link": "https://plus.google.com/u/1/108055450970793024633"
+                "link": "https://plus.google.com/u/0/113850026420634860751"
+            }
+        ]
+    },
+    "7": {
+        "id": 7,
+        "featured": true,
+        "name": "Tameghe Loic",
+        "title": "GDG Bandjoun, web developer & IT officer",
+        "company": "GDG Bandjoun",
+        "companyLogo": "/images/logos/gdg-dschang.svg",
+        "country": "Bandjoun, Cameroon",
+        "photoUrl": "/images/people/tameghe_loic.jpg",
+        "shortBio": "we feel strongly that to really do something well, you have to get a lot of people involved",
+        "bio": "\"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it\". Steve Jobs",
+        "tags": [
+            "Container",
+            "Docker",
+            "Hub",
+            "Codelab"
+        ],
+        "badges": [
+
+        ],
+       "socials": [
+            {
+                "icon": "gplus",
+                "name": "Google+",
+                "link": "https://plus.google.com/u/0/106964611425434698796"
+            }
+        ]
+    },
+    "8": {
+        "id": 8,
+        "featured": true,
+        "name": "Pajesse Kendjio",
+        "company": "GDG Dschang",
+        "companyLogo": "/images/logos/gdg-dschang.svg",
+        "country": "Dschang, Cameroon",
+        "photoUrl": "/images/people/pajesse_kendjio.jpg",
+        "shortBio": "we feel strongly that to really do something well, you have to get a lot of people involved",
+        "bio": "\"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it\". Steve Jobs",
+        "tags": [
+            "Numeric",
+            "Right",
+            "Law",
+            "License",
+            "Reglementation"
+        ],
+        "badges": [],
+        "socials": [
+            {
+                "icon": "gplus",
+                "link": "https://plus.google.com/u/1/114399852228185781413",
+                "name": "Google+"
+            },
+            {
+                "icon": "facebook",
+                "link": "https://www.facebook.com/pajesse",
+                "name": "Facebook"
+            },
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/pajessekenjio",
+                "name": "Twitter"
             }
         ]
     },
     "9": {
         "id": 9,
-        "featured": true,
+        "featured": false,
         "name": "Ngochi Menu",
         "title": "Developer, Opensourcer",
         "company": "GDG Nkongsamba",
@@ -313,7 +294,7 @@
     },
     "10": {
         "id": 10,
-        "featured": true,
+        "featured": false,
         "name": "Tegoum Jean Honore",
         "title": "Developer",
         "company": "GDG Nkongsamba",
@@ -376,7 +357,7 @@
     },
     "12": {
         "id": 12,
-        "featured": true,
+        "featured": false,
         "name": "Kapu Njikam Abdel R.",
         "title": "Network & security Techncien",
         "company": "GDG Foumban",
@@ -408,7 +389,7 @@
     },
     "13": {
         "id": 13,
-        "featured": true,
+        "featured": false,
         "name": "Lyonnel Dzotang",
         "title": "Senior Developer",
         "company": "GDG Dschang",
@@ -443,5 +424,218 @@
            "name": "Facebook"
          }
         ]
-    }
+    },
+    "14": {
+        "id": 14,
+        "featured": false,
+        "name": "Foposse Tatang Leger",
+        "title": "GDG Bandjoun Lead",
+        "company": "GDG Bandjoun",
+        "companyLogo": "/images/logos/gdg-dschang.svg",
+        "country": "Bandjoun, Cameroon",
+        "photoUrl": "/images/people/leger_foposse.jpg",
+        "shortBio": "Introduction to Firebase ...",
+        "bio": "I am determined to be cheerful and happy in whatever situation I may find myself. For I have learned that the greater part of our misery or unhappiness is determined not by our circumstance but by our disposition. I like to reinvent myself — it’s part of my job.",
+        "tags": [
+            "Cloud",
+            "Compute Engine",
+            "Firebase"
+        ],
+        "badges": [],
+        "socials": [
+            {
+                "icon": "gplus",
+                "link": "https://plus.google.com/u/1/+legerfoposse",
+                "name": "Google+"
+            }
+        ]
+    },
+    "15": {
+        "id": 15,
+        "featured": false,
+        "name": "Kutnjem Mouchikpou Romeo",
+        "title": "GDG Bagangté Lead",
+        "company": "GDG Bagangté",
+        "companyLogo": "/images/logos/gdg-dschang.svg",
+        "country": "Bagangté, Cameroon",
+        "photoUrl": "/images/people/kutnjem_romeo.jpg",
+        "shortBio": "Event Agenda and keynote: check out our DevFest West 2016 event and get a close look at what's brought to you ...",
+        "bio": "Love myself I do. Not everything, but I love the good as well as the bad. I love my crazy lifestyle, and I love my hard discipline. I love that I have learned to trust people with my heart, even if it will get broken. I am proud of everything that I am and will become.",
+        "tags": [
+            "Keynote",
+            "Agenda",
+            "Mobile",
+            "Framework"
+        ],
+        "badges": [],
+        "socials": [
+            {
+                "icon": "gplus",
+                "link": "https://plus.google.com/u/1/109743108350655662418",
+                "name": "Google+"
+            }
+        ]
+    },
+    "16": {
+        "id": 16,
+        "featured": false,
+        "name": "Fotsing Steve",
+        "title": "Product Manager/Developer",
+        "company": "GDG Dschang",
+        "companyLogo": "/images/logos/gdg-dschang.svg",
+        "country": "Dschang, Cameroon",
+        "photoUrl": "/images/people/fotsing_steve.jpg",
+        "shortBio": "Learn Developping mobile app in android ...",
+        "bio": "I can't change the direction of the wind, but I can adjust my sails to always reach my destination. The best preparation for tomorrow is doing your best today.",
+        "tags": [
+            "Mobile UX",
+            "Codelab",
+            "Android"
+        ],
+        "badges": [],
+        "socials": [
+            {
+                "icon": "facebook",
+                "name": "Facebook",
+                "link": "https://www.facebook.com/steve.tomfeu"
+            },
+            {
+                "icon": "gplus",
+                "name": "Google+",
+                "link": "https://plus.google.com/u/1/106301468641653407908"
+            }
+        ]
+    },
+    "17": {
+        "id": 17,
+        "featured": false,
+        "name": "Shey Tanyu Kingsly",
+        "title": "GDG Nkongsamba Lead, Opensource Developer",
+        "company": "GDG Nkongsamba",
+        "companyLogo": "/images/logos/gdg-dschang.svg",
+        "country": "Nkongsamba,Cameroon",
+        "photoUrl": "/images/people/sheytanyu.jpg",
+        "shortBio": "Leveraging Git By developers: Making use of git for better workflow ...",
+        "bio": "Love's problem solving, leveraging the power of Computer Science. Passionate about algorithm, computer programming and the use of Tech To make the world a better place. Excellence is All I chase!",
+        "tags": [
+            "Android",
+            "Cloud",
+            "Web",
+            "API"
+        ],
+        "badges": [],
+        "socials": [
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/kstanyu",
+                "name": "Twitter"
+            },
+            {
+                "icon": "facebook",
+                "link": "https://www.facebook.com/sheytanyu",
+                "name": "Facebook"
+            }
+        ]
+    },
+    "18": {
+        "id": 18,
+        "featured": false,
+        "name": "Metsa Glorie",
+        "title": "Junior Developer, Researcher Student",
+        "company": "GDG Dschang",
+        "companyLogo": "/images/logos/gdg-dschang.svg",
+        "country": "Dschang, Cameroon",
+        "photoUrl": "/images/people/glorie.jpg",
+        "shortBio": "Google and Android 7.0 Nougat (N). Throughout my presentation, I will talk about the different versions of Android, their evolution as well as a practical demonstration ...",
+        "bio": "I have a passion for computer sciences and new technologies; i'm also fan of Basketball. Dare to Dream-Realize is my way of thinking ...",
+        "tags": [
+            "Android",
+            "Cloud"
+        ],
+        "badges": [],
+        "socials": [
+            {
+                "icon": "gplus",
+                "link": "https://plus.google.com/100237033631813295072",
+                "name": "Google+"
+            },
+            {
+                "icon": "facebook",
+                "link": "https://www.facebook.com/metsaglorie",
+                "name": "Facebook"
+            },
+            {
+                "icon": "linkedin",
+                "link": "https://cm.linkedin.com/in/glorie-metsa-726048113",
+                "name": "Linkedin"
+            }
+        ]
+    },
+    "19": {
+        "id": 19,
+        "featured": false,
+        "name": "Tabueu Fotso Cabrel L.",
+        "title": "Senior Developer, Researcher",
+        "company": "weloobe",
+        "companyLogo": "/images/logos//weloobe-logoo.gif",
+        "country": "Dschang, Cameroon",
+        "photoUrl": "/images/people/tafoca.jpg",
+        "shortBio": "Introduction to Machine Learning and TensorFlow: \"gives computers the ability to learn without being explicitly programmed\" (Arthur Samuel, 1959). ...",
+        "bio": "\"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it\". Steve Jobs",
+        "tags": [
+            "AI",
+            "Cloud",
+            "Libraries",
+            "TensorFlow",
+            "Linux"
+        ],
+        "badges": [],
+        "socials": [
+            {
+                "icon": "facebook",
+                "name": "Facebook",
+                "link": "https://www.facebook.com/cabrel.fotso.5"
+            },
+            {
+                "icon": "github",
+                "link": "https://github.com/tafoca",
+                "name": "Github"
+            },
+            {
+                "icon": "gplus",
+                "name": "Google+",
+                "link": "https://plus.google.com/u/1/108055450970793024633"
+            }
+        ]
+    },
+    "20": {
+        "id": 20,
+        "featured": true,
+        "title": "Gdg Dschang Organizer",
+        "name": "Taboula Fopa jems",
+        "company": "GDG Dschang",
+        "companyLogo": "/images/logos/gdg-dschang.svg",
+        "country": "Dschang, Cameroon",
+        "photoUrl": "/images/people/james_foppa.jpg",
+        "shortBio": "we feel strongly that to really do something well, you have to get a lot of people involved",
+        "bio": "\"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it\". Steve Jobs",
+        "tags": [
+            "Android",
+            "mobile",
+            "playstore"
+        ],
+        "badges": [],
+        "socials": [
+            {
+                "icon": "gplus",
+                "link": "https://plus.google.com/u/0/112513581476717934595",
+                "name": "Google+"
+            },
+            {
+                "icon": "facebook",
+                "link": "https://www.facebook.com/james.foppa",
+                "name": "Facebook"
+            }
+        ]
+    }    
 }
