@@ -1,18 +1,15 @@
 {
   "140": {
     "id": 140,
-    "title": "Special Guess Pitch",
-    "description": "Camtel communication space",
+    "title": "Weloobe Special Guess Pitch",
+    "description": "a startup turn to the future by Dzeudjouo Herve: co-founder",
     "language": "English",
     "image": "/images/backgrounds/sponsor.jpg"
   },
   "139": {
     "id": 139,
-    "title": "Keynote - Welcome to DevFest West 2016",
-    "description": "Event Agenda and keynote: check out our DevFest West 2016 event and get a close look at what's brought to you.",
-    "speakers": [
-        2
-    ],
+    "title": "Keynote - Welcome to DevFest Event Address By Edy KOWA",
+    "description": "Event Agenda and keynote: check out our DevFest West 2017 event and get a close look at what's brought to you.",
     "language": "English"
   },
   "138": {
@@ -36,9 +33,13 @@
   },
   "135": {
     "id": 135,
-    "title": "Morning coffee",
-    "description": "Coffeeeeeee!",
-    "image": "/images/backgrounds/morning.jpg"
+    "title": "GDG Bandjoun Lead's Keynote",
+    "description": "Keynote - Mentor GDG Cameroon by Leger FOPOSSE!",
+    "image": "/images/backgrounds/morning.jpg",
+    "language": "English",
+    "speakers": [
+      14
+    ]
   },
   "134": {
     "id": 134,
@@ -61,7 +62,7 @@
   "131": {
     "id": 131,
     "title": "Conference closing !",
-    "description": "End of the greatest Google devfest 2016 event in West Cameroon. Hope you people have enjoy and be more equiped to make fun stuff for tomorrow technologies",
+    "description": "End of the greatest Google Devfest 2017 event in West Cameroon. Hope you people have enjoy and be more equiped to make fun stuff for tomorrow technologies",
     "image": "/images/backgrounds/closing.jpg"
   },
   "130": {
@@ -72,17 +73,9 @@
   },
   "129": {
     "id": 129,
-    "title": "Accessibility on Android",
-    "description": "Accessibility is a very important step to make sure that your app reaches everyone in an easy and fun way to use. \nGood accessibility support means much more than just making sure the app supports screen readers, different fonts sizes and good contrast ratios. It is a learning process, and one in which we ourselves still have much to learn and explore. ",
-    "speakers": [
-      26
-    ],
-    "language": "English",
-    "complexity": "Intermediate",
-    "tags": [
-      "Android"
-    ],
-    "presentation":"https://speakerdeck.com/gdglviv/resul-caner-yildirim-accessibility-on-android"
+    "title": "Team",
+    "description": "A Free style and impression of the participants !",
+    "language": "English"
   },
   "128": {
     "id": 128,
@@ -221,31 +214,31 @@
   },
   "118": {
     "id": 118,
-    "title": "Kotlin + Android",
-    "description": "TBD",
+    "title": "La preuve électronique",
+    "description": "Develloppeur et vie privée",
     "speakers": [
-      16
+      11
     ],
-    "language": "English",
+    "language": "French",
     "complexity": "Intermediate",
     "tags": [
       "Android"
     ],
-    "presentation":"https://speakerdeck.com/gdglviv/dmytro-danylyk-kotlin-plus-android"
+    "presentation":"https://drive.google.com/open?id=1jJK1pJFwV4cvXau3yEkr-UkHfVAgUhkP"
   },
   "117": {
     "id": 117,
-    "title": "Building data pipelines: from simple to more advanced - hands-on experience",
+    "title": "Le numérique et le droit",
     "description": "Data is becoming one of the main decision-makers in an organisation. The more data we have the more challenges we face every day. Every decision we make will have long-term implications. In the talk we will go through different approaches to the data pipelines: from a simple in-house built, with comparison to open source solutions based on Apache stack(Apache Kafka, Apache Samza, Spark) and finally hosted auto-scaling solutions based Amazon(S3, Kinesis, Lambda, EMR) or Google(Pub/Sub, Dataflow, BigQuery). The talk covers the main aspects of data collecting processes altogether with further implications for data processing, highlighting appropriate solutions and architectures for the particular use-cases. ",
     "speakers": [
-      15
+      8
     ],
-    "language": "English",
+    "language": "French",
     "complexity": "Beginner",
     "tags": [
       "Cloud"
     ],
-    "presentation":"https://speakerdeck.com/gdglviv/sergii-khomenko-building-data-pipelines-from-simple-to-more-advanced-hands-on-experience"
+    "presentation":"#"
   },
   "116": {
     "id": 116,
@@ -277,30 +270,31 @@
   },
   "114": {
     "id": 114,
-    "title": "I\u2019ve been doing some syncing\u2026",
-    "description": "Storing account information is a common challenge many app developers face, and is often tackled in tailored solutions. Isn't there some strategy to store account credentials in a centralized place?\n\nWhat about considerations for multiple accounts? Security concerns? And when should or could I synchronize data?\n\nAndroid offers a powerful\u2014and underrated\u2014account manager. Let's explore the possibilities together and lay out an architecture for engineering an Android app based on accounts.",
+    "title": "Demo Docker",
+    "description": "",
     "speakers": [
-      12
+      7
     ],
     "language": "English",
     "complexity": "Intermediate",
     "tags": [
       "Android"
-    ]
+    ],
+    "presentation": "https://drive.google.com/open?id=0B71OczHVk7kMTzJpZW9lQzJkTUxhM1QxWGlHeDhMbkctUGxR"
   },
   "113": {
     "id": 113,
-    "title": "Microservices in Google App Engine",
-    "description": "Microservices is coming with a certain workload and constraints. Let's try to see how Google Cloud Platform and App Engine can help the overall microservices implementation.",
+    "title": "Docker",
+    "description": "",
     "speakers": [
-      11
+      7
     ],
     "language": "English",
     "complexity": "Intermediate",
     "tags": [
       "Cloud"
     ],
-    "presentation":"https://speakerdeck.com/gdglviv/jean-baptiste-clion-microservices-in-google-app-engine"
+    "presentation":"https://drive.google.com/open?id=0B71OczHVk7kMTzJpZW9lQzJkTUxhM1QxWGlHeDhMbkctUGxR"
   },
   "112": {
     "id": 112,
@@ -317,81 +311,88 @@
   },
   "111": {
     "id": 111,
-    "title": "Augmented reality",
-    "description": "Augmented reality a new sense of virtuality: a live direct or indirect view of a physical, real-world environment whose elements are augmented (or supplemented) by computer-generated sensory input such as sound, video, graphics or GPS data.",
+    "title": "Demo App Engine",
+    "description": "Let's try to see how Google Cloud Platform and App Engine can help the overall project implementation",
     "speakers": [
-      9, 10
+      2
     ],
     "language": "French",
     "complexity": "Intermediate",
     "tags": [
       "Android"
     ],
-    "presentation":"https://speakerdeck.com/gdglviv/kseniia-shumelchyk-building-modular-architecture-apps-with-dagger-2"
+    "presentation":"#"
   },
   "110": {
     "id": 110,
-    "title": "PWA The New Approach for the Web",
-    "description": "A talk on the PWA which is a new way of engaging users to use web apps like native apps and keep them stick to what we've built. I'll start by comparing the web of yesteryears and the web of today. I'll follow by introducing PWA, its benefit, while apps now should possess its features and bring out some examples of companies who have tried this new approach and finds it very helpful. Then I'll end by encourage the audience to learn this and try by pointing them to the codelabs of devsite or any other means. Don't miss this talk.",
+    "title": "Demo openshift",
+    "description": "DE ZÉRO AU CLOUD: révolutionnez le cycle de vie de votre Application avec openshift ...",
     "speakers": [
-      12
+      1
     ],
     "language": "Frencch",
     "complexity": "Intermediate",
     "tags": [
-      "Web"
+      "Web",
+      "Cloud",
+      "Openshift"
     ],
-    "presentation":"https://speakerdeck.com/gdglviv/mateusz-herych-the-ultimate-guide-to-mvp-pattern-on-android"
+    "presentation":"#"
   },
   "109": {
     "id": 109,
-    "title": "Android, Firebase, Cloud Message",
-    "description": "I would like to talk about architecture of our Settle Up app. It's all based on new Firebase announced on I/O with the help of modern frameworks like Rx, Kotlin and MVP. Discover how much money Firebase can save you, how you can easily deploy service like a chat application on the cloud",
+    "title": "DE ZÉRO AU CLOUD: openshift",
+    "description": "révolutionnez le cycle de vie de votre Application avec openshift ...",
     "speakers": [
-      13
+      1
     ],
     "language": "French",
     "complexity": "Intermediate",
     "tags": [
-      "Cloud"
+      "Web",
+      "Cloud",
+      "Openshift"
     ],
     "presentation":"#"
   },
   "108": {
-    "id": 108,
-    "title": "Intro to TensorFlow",
-    "description": "TBD",
+    "id": 107,
+    "title": "Demo Introduction to Machine Learning",
+    "description": "\"Gives computers the ability to learn without being explicitly programmed\" (Arthur Samuel, 1959). By using algorithms to build models that uncover connections, organizations can make better decisions without human intervention. Learn more about this solution that's shaping the world we live in.",
     "speakers": [
       4
     ],
     "language": "English",
     "complexity": "Intermediate",
     "tags": [
-      "Cloud"
+      "Cloud",
+      "Tensorflow",
+      "A.I"
     ],
-    "presentation":"https://speakerdeck.com/gdglviv/rustem-arzymbetov-intro-to-tensorflow"
+    "presentation":"http://slides.com/tnga/ml-tensorflow#/"
   },
   "107": {
     "id": 107,
     "title": "Introduction to Machine Learning and TensorFlow",
     "description": "\"Gives computers the ability to learn without being explicitly programmed\" (Arthur Samuel, 1959). By using algorithms to build models that uncover connections, organizations can make better decisions without human intervention. Learn more about this solution that's shaping the world we live in.",
     "speakers": [
-      7, 8
+      4
     ],
     "language": "English",
     "complexity": "Intermediate",
     "tags": [
       "Cloud",
+      "Tensorflow",
       "A.I"
     ],
-    "presentation":"#"
+    "presentation":"http://slides.com/tnga/ml-tensorflow#/"
   },
   "106": {
     "id": 106,
-    "title": "Google and Android 7.0 Nougat (N)",
-    "description": "Android 7.0 brings new features for performance, productivity, and security. Test your apps ... Learn all about the new features in the Android N, how about comparison with previous versions.",
+    "title": "Google Play Platform",
+    "description": "Android 8.0 brings new features for performance, productivity, and security. Test your apps ... Learn all about the new features in the Android N, how about comparison with previous versions.",
     "speakers": [
-      6
+      20
     ],
     "language": "French",
     "complexity": "Intermediate",
@@ -402,12 +403,12 @@
   },
   "105": {
     "id": 105,
-    "title": "Leveraging Git By developers",
+    "title": "Google Cloud Platform",
     "description": "Making use of git for better workflow. a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.",
     "speakers": [
-      5
+      3
     ],
-    "language": "English",
+    "language": "French",
     "complexity": "Intermediate",
     "tags": [
       "Cloud"
@@ -416,10 +417,10 @@
   },
   "104": {
     "id": 104,
-    "title": "Learn how to use Git and Github to work in teams on a projet",
-    "description": "As developers, a lot of the time we tend to work on local development project then just upload everything when we’re done. This is fine when it’s just you and the changes are small, but when you’re dealing with more than one person working on something, or on a large project with lots of complicated components, that’s simply not feasible. That’s when we turn to something called version control. By far, the most widely used modern version control system in the world today is Git. That said there is a web-based Git repository hosting service like GitHub, Gitlab, ...",
+    "title": "App Engine",
+    "description": "Let's try to see how Google Cloud Platform and App Engine can help the overall project implementation",
     "speakers": [
-      4
+      2
     ],
     "language": "French",
     "complexity": "Beginner",
@@ -444,10 +445,10 @@
   },
   "102": {
     "id": 102,
-    "title": "Introduction to the frontend framework",
+    "title": "High Level overview of the Angular2",
     "description": "One of my favourite things about the web are ASCII smileys. They're sweet, fun and simply make the web a better place. How could anyone not like them \u00af(\u30c4)/\u00af?\n\nThis talk is an overdose of smileys, because they're the perfect excuse to get started with frontend framework like Angularjs, Emberjs and Polymer. Polymer is a library built on top of the Web Components standards that helps developers create reusable components for the modern web. And since I know that everybody has been wondering how one could take over the world by creating a suite of Polymer animated emoticon components, we're going to do exactly that.",
     "speakers": [
-      2
+      5
     ],
     "language": "English",
     "complexity": "Beginner",
@@ -458,10 +459,10 @@
   },
   "101": {
     "id": 101,
-    "title": "Introduction to Firebase",
-    "description": "I would like to talk about architecture of our Settle Up app. It's all based on new Firebase announced on I/O with the help of modern frameworks like Rx, Kotlin and MVP. Discover how much money Firebase can save you",
+    "title": "Git, Github, GitLab",
+    "description": "Making use of git for better workflow. a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.",
     "speakers": [
-      1
+      6
     ],
     "language": "French",
     "complexity": "Intermediate",

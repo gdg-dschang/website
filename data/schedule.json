@@ -1,7 +1,7 @@
 [
     {
-        "date": "2017-08-05",
-        "dateReadable": "November 26",
+        "date": "2017-12-09",
+        "dateReadable": "December 9",
         "tracks": [
             {
                 "title": "Special hall"
@@ -16,13 +16,13 @@
         "timeslots": [
             {
                 "startTime": "08:00",
-                "endTime": "08:30",
+                "endTime": "08:45",
                 "sessions": [
                     [132]
                 ]
             },
             {
-                "startTime": "08:30",
+                "startTime": "08:45",
                 "endTime": "09:00",
                 "sessions": [
                     [139]
@@ -30,69 +30,97 @@
             },
             {
                 "startTime": "09:00",
-                "endTime": "09:10",
+                "endTime": "09:15",
                 "sessions": [
                     [135]
                 ]
             },
             {
-                "startTime": "09:10",
-                "endTime": "09:25",
+                "startTime": "09:15",
+                "endTime": "09:30",
                 "sessions": [
                     [140]
                 ]
             },
             {
-                "startTime": "09:25",
-                "endTime": "10:55",
+                "startTime": "09:30",
+                "endTime": "10:20",
                 "sessions": [
                     [105], [106]
                 ]
             },
             {
-                "startTime": "11:00",
-                "endTime": "12:30",
+                "startTime": "10:20",
+                "endTime": "11:10",
                 "sessions": [
                     [104], [111]
                 ]
             },
             {
-                "startTime": "12:30",
-                "endTime": "13:00",
+                "startTime": "11:10",
+                "endTime": "12:00",
                 "sessions": [
-                    [134]
+                    [102], [101]
                 ]
             },
             {
-                "startTime": "13:00",
-                "endTime": "13:30",
+                "startTime": "12:00",
+                "endTime": "12:15",
                 "sessions": [
                     [138]
                 ]
             },
             {
-                "startTime": "13:35",
-                "endTime": "15:35",
+                "startTime": "12:15",
+                "endTime": "13:15",
+                "sessions": [
+                    [134]
+                ]
+            },
+            {
+                "startTime": "13:15",
+                "endTime": "13:55",
+                "sessions": [
+                    [117], [118]
+                ]
+            },
+            {
+                "startTime": "13:55",
+                "endTime": "14:35",
+                "sessions": [
+                    [113], [114]
+                ]
+            },
+            {
+                "startTime": "14:35",
+                "endTime": "15:25",
+                "sessions": [
+                    [107], [108]
+                ]
+            },
+            {
+                "startTime": "15:25",
+                "endTime": "16:15",
                 "sessions": [
                     [109], [110]
                 ]
             },
             {
-                "startTime": "15:40",
-                "endTime": "17:10",
+                "startTime": "16:15",
+                "endTime": "16:45",
                 "sessions": [
-                    [107], [112]
+                    [129]
                 ]
             },
             {
-                "startTime": "17:15",
-                "endTime": "17:30",
+                "startTime": "16:45",
+                "endTime": "17:00",
                 "sessions": [
                     [131]
                 ]
             },
             {
-                "startTime": "17:30",
+                "startTime": "17:00",
                 "endTime": "20:30",
                 "sessions": [
                     [137]
