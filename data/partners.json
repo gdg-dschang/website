@@ -8,19 +8,24 @@
         "logoUrl": "../images/logos/google.svg"
       },
       {
-        "name": "Inwte",
-        "url": "http://inwte.com",
-        "logoUrl": "../images/logos/inwte-green.png"
-      },
-      {
         "name": "Camtel",
         "url": "http://www.camtel.cm",
         "logoUrl": "../images/logos/camtel.png"
       },
       {
         "name": "Weloobe",
-        "url": "http://weloobe.com",
+        "url": "https://weloobe.com",
         "logoUrl": "../images/logos/weloobe-logoo.gif"
+      },
+      {
+        "name": "MyBonWays",
+        "url": "http://mybonways.com",
+        "logoUrl": "../images/logos/bonways.png"
+      },
+      {
+        "name": "EnixWhiteHat",
+        "url": "https://www.facebook.com/ECWH.v1/?hc_ref=ARQ9hikYJM0e3hQtbSvCp70vOi0ohnqaiksmmr0pTW5OmqqI6zryQ8kSiaFummBStuk",
+        "logoUrl": "../images/logos/enixhat.png"
       }
     ]
   },
@@ -38,6 +43,11 @@
         "url": "https://github.com/gdg-x",
         "logoUrl": "../images/logos/gdg-x.svg",
         "width": 128
+      },
+      {
+        "name": "Inwte",
+        "url": "https://inwte.com",
+        "logoUrl": "../images/logos/inwte-green.png"
       }
     ]
   }
